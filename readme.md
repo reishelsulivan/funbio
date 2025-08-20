@@ -12,7 +12,7 @@
   - Edad: 18 años
 
 - *Daniela Alexandra Ochoa Cieza*
-- ![Imagen DANIELA](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
+- ![Imagen DANIELA](https://github.com/reishelsulivan/funbio/blob/main/FOTO%20DANIELA.jpg)
   - Edad: 19 años
 
 - *Sophia Nicole Nieves Maury*
@@ -20,7 +20,7 @@
   - Edad: 21 años
 
 - *Sharon Lizeth Oré Arredondo*
-- ![Imagen LIZETH](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
+- ![Imagen LIZETH](https://github.com/reishelsulivan/funbio/blob/main/FOTO%20SHARON.jpg)
   - Edad: 18 años
 
 - *Maria del Carmen Paredes Cavero*
