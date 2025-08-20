@@ -1,6 +1,6 @@
 # Fundamentos de Biodiseño  
 ## Grupo 8
-
+- ![Imagen GRUPAL](https://github.com/reishelsulivan/funbio/blob/main/2c069289-7bae-46af-8dbd-feee26bf4829.jpg)
 *Grupo de estudiantes de Ingeniería Biomédica interesados en el desarrollo de nuevas tecnologías que favorezcan el avance médico*
 
 ### Integrantes
