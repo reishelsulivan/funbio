@@ -3,7 +3,8 @@
 
 ### Integrantes
 
-- *Reishel Sulivan Lope Paredes*  
+- *Reishel Sulivan Lope Paredes*
+![Imagen de un gato](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
   - Edad: 19 años
 
 - *Murga Quispe, Jostin Rájhul*  
