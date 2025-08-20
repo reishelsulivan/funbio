@@ -4,7 +4,7 @@
 ### Integrantes
 
 - *Reishel Sulivan Lope Paredes*
- ![Imagen](https://ibb.co/W4WMfSCr)
+ ![Imagen](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
   - Edad: 19 años
 
 - *Murga Quispe, Jostin Rájhul*  
@@ -21,5 +21,6 @@
 
 - *Maria del Carmen Paredes Cavero*  
   - Edad: 20 años
+
 
 
