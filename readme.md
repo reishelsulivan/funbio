@@ -17,14 +17,14 @@
   
 - *Sophia Nicole Nieves Maury*
   - Edad: 21 años
-- ![Imagen NICOLE](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
+- ![Imagen NICOLE](https://github.com/reishelsulivan/funbio/blob/main/WhatsApp%20Image%202025-08-20%20at%205.28.49%20PM.jpeg)
 
 - *Sharon Lizeth Oré Arredondo*
   - Edad: 18 años
 - ![Imagen LIZETH](https://github.com/reishelsulivan/funbio/blob/main/FOTO%20SHARON.jpg)
 
 - *Maria del Carmen Paredes Cavero*
-- ![Imagen MARIA](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
+- ![Imagen MARIA](https://github.com/reishelsulivan/funbio/blob/main/WhatsApp%20Image%202025-08-20%20at%205.29.57%20PM.jpeg)
   - Edad: 20 años
 
 
