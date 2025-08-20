@@ -29,5 +29,3 @@
 - ![Imagen MARIA](https://github.com/reishelsulivan/funbio/blob/main/WhatsApp%20Image%202025-08-20%20at%205.29.57%20PM.jpeg)
   - Edad: 20 años
 
-
-![hola]( )
