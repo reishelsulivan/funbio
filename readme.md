@@ -1,6 +1,8 @@
 # Fundamentos de Biodiseño  
 ## Grupo 8
 
+*Grupo de estudiantes de Ingeniería Biomédica interesados en el desarrollo de nuevas tecnologías que favorezcan el avance médico*
+
 ### Integrantes
 
 - *Reishel Sulivan Lope Paredes*
