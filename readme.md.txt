@@ -1,8 +1,22 @@
-# GRUPO 8
-**Fundamentos de Biodiseño**
+# Fundamentos de Biodiseño  
+## Grupo 8
 
-#Integrantes#
-1.Maria del Carmen Paredes
-2.Sophia Nieves Maury
-3.Reishel Sulivan Lope Paredes
-4.Daniela Alexandra Ochoa Cieza
+### Integrantes
+
+- *Reishel Sulivan Lope Paredes*  
+  - Edad: 19 años
+
+- *Murga Quispe, Jostin Rájhul*  
+  - Edad: 18 años
+
+- *Daniela Alexandra Ochoa Cieza*  
+  - Edad: 19 años
+
+- *Sophia Nicole Nieves Maury*  
+  - Edad: 21 años
+
+- *Sharon Lizeth Oré Arredondo*  
+  - Edad: 18 años
+
+- *Maria del Carmen Paredes Cavero*  
+  - Edad: 20 años
