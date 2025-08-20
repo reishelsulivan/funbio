@@ -4,8 +4,8 @@
 ### Integrantes
 
 - *Reishel Sulivan Lope Paredes*
--![Imagen REISHEL](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
   - Edad: 19 años
+- ![Imagen REISHEL](https://github.com/reishelsulivan/funbio/blob/main/FOTO.jfif)
 
 - *Murga Quispe, Jostin Rájhul*
 - ![Imagen JOSTIN](https://github.com/reishelsulivan/funbio/blob/main/WhatsApp%20Image%202025-08-20%20at%204.52.35%20PM%20(1).jpeg)
