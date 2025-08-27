@@ -19,15 +19,15 @@
 
 ## Enfermedades:
 
-### Lesión medular
+## Lesión medular
 
-#### Ficha de la enfermedad
+### Ficha de la enfermedad
 La lesión medular es una condición neurológica dada por una patología o evento que discapacita el sistema nervioso central. Se divide en dos categorías: traumáticas y no traumáticas. Con respecto a la primera, estas se dan por eventos traumáticos y específicos, tales como accidentes de tráfico, caídas o acontecimientos de carácter agresivo. Por otro lado, respecto a la del segundo tipo, puede darse por una causa patológica específica que afecte la médula espinal. Si bien es menos frecuente, existen casos en los que ha ocurrido, ya sea por tumores, enfermedades vasculares, infecciones graves, enfermedades degenerativas o autoinmunes. En ese sentido, el mayor padecimiento ocurre en el sistema nervioso central (SNC), lo cual conlleva a que el sistema motor y sensitivo también se vean afectados, ya que en la mayoría de los casos se pierde cierto grado de sensibilidad ante estímulos externos y capacidades motoras en determinadas zonas del cuerpo. A nivel anatómico, las lesiones medulares que se dan por eventos abruptos, interrumpen la continuidad de la médula espinal (la cual trasciende desde el bulbo raquídeo hasta la costilla L1-L2 en adultos) debido a la energía del trauma, lo que, en primera instancia, puede llevar a necrosis o hemorragias internas. Posteriormente, las neuronas suelen sobreexcitarse, lo que conduce a la muerte neuronal programada de estas y a la generación de radicales libres, afectando aún más a las células neuronales. A nivel fisiológico, se bloquea la conducción nerviosa por debajo de la zona afectada, se alteran reflejos y se comprometen funciones autónomas del cuerpo, desde motricidad hasta funcionamientos cardiovasculares, por ejemplo.
 
-#### Factores y análisis de la enfermedad
+### Factores y análisis de la enfermedad
 Entre los principales factores de riesgo de las lesiones medulares se encuentran los accidentes automovilísticos, las caídas, intentos fallidos de suicidio, la práctica de deporte de alto impacto, carga de objetos pesados, entre otros. De esta manera, estos eventos suelen afectar la capacidad sensitiva, motora, y autonómicas de aquel que la padece, donde se comprometen los brazos, el tronco, las piernas, la coordinación motora, ocurren diferentes disfunciones como la sexual, vesical o intestinal e inestabilidades cardiovasculares o respiratorias. Sobre esa base es que la calidad de vida de las personas con lesiones medulares se encuentra profundamente expuesta, ya que el manejo de la vida de estos individuos cambia radicalmente. Las mayores dificultades radican en la pérdida de autonomía y de sensibilidad,donde eventos como sentir calor, frío o el tacto de un familiar, la consciencia sobre la propiocepción, hacer necesidades por uno mismo o incluso acomodarse la almohada para mayor comodidad se convierten en acontecimientos irrepetibles para el individuo en cuestión. Sin dudas, es una condición traumática no solo para el cuerpo, sino también para la mente.
 
-#### Prevención, diagnóstico, tratamiento y monitoreo
+### Prevención, diagnóstico, tratamiento y monitoreo
 A pesar de que existan acontecimientos que no se pueden prever del todo, sí es posible realizar cambios que influyen en la cotidianeidad de la gente, como una buena educación vial, prevenciones de caídas en adultos mayores y protocolos de riesgo y cuidado para trabajos o deportes extremos. Estas prácticas pueden marcar una diferencia en la vida de muchas personas, así como chequeos frecuentes y avances en la medicina ante tumores espinales y enfermedades autoinmunes.  
 
 Por otro lado, una vez dado el evento, se realizan distintas evaluaciones neurológicas para conocer el nivel de funcionamiento motor y sensitivo para poder determinar la gravedad de la lesión, como la prueba **ASIA (American Spinal Injury Association)**, o exámenes de señales médicos, como resonancia magnética, TAC e imagenología.  
@@ -38,12 +38,22 @@ Además, se han desarrollado bastantes métodos de tratamiento, como **estimulac
 
 De esta forma se logra **monitorear el avance del paciente**, a través de un acompañamiento integral, exámenes complementarios de imagenología y terapia física.
 
-#### Reflexión ingenieril
+### Reflexión ingenieril
 Finalmente, las lesiones medulares representan un reto médico, clínico y, sobre todo, personal para el paciente. Pero también puede llegar a ser una oportunidad, un nicho de investigación en donde los ingenieros pueden replantearse el papel de la tecnología en afecciones comúnmente manejadas por la medicina tradicional.  
 
 Desde la perspectiva de la **ingeniería biomédica** es necesario saber que nuestro papel va mucho más allá de la creación de dispositivos, la carrera es humanizadora y las lesiones medulares nos permiten centrarnos en la anatomía, fisiología, y la calidad de vida de las personas que la padecen.  
 
 Desde la recuperación de la movilidad y de la autonomía hasta la prevención de complicaciones secundarias, como úlceras, espasmos o dolor neuropático.
+## Lesión medular
+
+### Referencias:
+1. J. F. Cañar-Camacho, A. A. Ramírez-Coronel, L. A. Romero Sacoto, M. Á. Estrella González, y É. A. Maxi Maxi, “Factores de riesgo y prevalencia de la lesión medular en adultos: una revisión sistemática,” *Rev. Multidiscip. Investig. Contemp.*, vol. 1, no. 2, pp. 76–97, 2023, doi: [10.58995/redlic.v1i2.n30](https://doi.org/10.58995/redlic.v1i2.n30).  
+
+2. M. J. Arroyo Espinal, *Calidad de vida en personas con lesión medular*, Tesis Doctoral, Univ. Complutense de Madrid, Facultad de Psicología, Madrid, España, 2015. [En línea]. Disponible en: [https://docta.ucm.es/rest/api/core/bitstreams/896ebcb1-d30d-43ae-9814-cc29b2ac9380/content](https://docta.ucm.es/rest/api/core/bitstreams/896ebcb1-d30d-43ae-9814-cc29b2ac9380/content).  
+
+3. J. C. Granados-Carrera, “Efecto de la rehabilitación en la calidad de vida de personas con lesión medular,” *An. Fac. Med.*, vol. 81, no. 1, pp. 6–13, 2020, doi: [10.15381/anales.v81i1.16852](https://doi.org/10.15381/anales.v81i1.16852).  
+
+4. C. P. Henao-Lema y J. E. Pérez-Parra, “Lesiones medulares y discapacidad: revisión bibliográfica,” *Aquichan*, vol. 10, no. 2, pp. 157–172, ago. 2010. [En línea]. Disponible en: [https://www.redalyc.org/articulo.oa?id=74116245006](https://www.redalyc.org/articulo.oa?id=74116245006).  
 
 ---
 
@@ -87,6 +97,33 @@ Desde la recuperación de la movilidad y de la autonomía hasta la prevención d
   #### Reflexión ingenieril
 - **Identificar un problema concreto:** El constante problema es en el diagnóstico, pues la evaluación hace ver los síntomas clave como la fatiga o alteración, como una de menor importancia, cuando realmente son predictores de la enfermedad. Por ello es necesario tener consultas clínicas donde se vea la fluctuación diaria del paciente, de manera óptima y personalizada. [1,2]
 - **Propuesta de solución desde la ingeniería:** Desarrollar un sistema de monitoreo continuo, sin llegar a ser invasivo, pero sí amigable y fácil de entender. Con sensores inerciales (giroscopios, acelerómetros) incorporados en la pulsera, para poner la velocidad en marcha. Sería cuestión de ver la variabilidad cardiaca con el proxy, e incorporar evaluaciones, para mejoras futuras. Esta app permitirá una medicina de precisión, alertando al médico si tiene bajones, o qué tipo de terapia necesita. [1,2]
+
+### Referencias:
+- 1. World Health Organization, "Multiple sclerosis," Aug. 2023. [Online]. Available: [https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis](https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis). [Accessed: Aug. 27, 2025].  
+
+2. Multiple Sclerosis International Federation, "What is MS?." [Online]. Available: [https://www.msif.org/about-ms/what-is-ms/](https://www.msif.org/about-ms/what-is-ms/). [Accessed: Aug. 27, 2025].  
+
+3. International Multiple Sclerosis Genetics Consortium, "Multiple sclerosis genomic map implicates peripheral immune cells and microglia in susceptibility," *Science*, vol. 365, no. 6460, p. eaav7188, Sep. 2019.  
+
+4. A. Ascherio and K. L. Munger, "Epidemiology of Multiple Sclerosis: From Risk Factors to Prevention—An Update," *Seminars in Neurology*, vol. 36, no. 02, pp. 103–114, Apr. 2016.  
+
+5. M. P. Pender and S. R. Burrows, "Epstein-Barr virus and multiple sclerosis: potential opportunities for immunotherapy," *Clinical & Translational Immunology*, vol. 3, no. 10, p. e27, Oct. 2014.  
+
+6. D. A. Hafler, "Multiple sclerosis," *Journal of Clinical Investigation*, vol. 113, no. 6, pp. 788–794, Mar. 2004.  
+
+7. F. D. Lublin et al., "Defining the clinical course of multiple sclerosis: The 2013 revisions," *Neurology*, vol. 83, no. 3, pp. 278–286, Jul. 2014.  
+
+8. A. Solari et al., "Health-related quality of life in multiple sclerosis: The impact of disability, gender and employment status," *Quality of Life Research*, vol. 15, no. 2, pp. 259–271, Mar. 2006.  
+
+9. N. G. LaRocca, "Impact of Walking Impairment in Multiple Sclerosis," *The Patient - Patient-Centered Outcomes Research*, vol. 4, no. 3, pp. 189–201, Sep. 2011.  
+
+10. J. Correale, M. F. Farez, and G. A. Gaitán, "Vitamin D modulation of immune responses in multiple sclerosis," *J Neurol Sci*, vol. 311, no. Suppl, p. S29, Oct. 2011.  
+
+11. J. A. Cohen and A. T. Reder, "Therapies for multiple sclerosis: A new era of promise," *JAMA*, vol. 327, no. 12, pp. 1137–1138, Mar. 2022.  
+
+12. A. J. Thompson et al., "Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria," *The Lancet Neurology*, vol. 17, no. 2, pp. 162–173, Feb. 2018.  
+
+13. M. Filippi et al., "Assessment of lesions on magnetic resonance imaging in multiple sclerosis: practical guidelines," *Brain*, vol. 142, no. 7, pp. 1858–1875, Jul. 2019.
 - 
 ---
 
@@ -129,7 +166,41 @@ El monitoreo en la ELA es un proceso continuo y sistemático para evaluar la pro
 ### Reflexión ingenieril:
 Se plantea un desafío complejo en el ámbito neurológico, ya que progresa con la pérdida gradual de motoneuronas, lo que conlleva a debilidad muscular, parálisis y fallas en funciones vitales como la respiración y la deglución. Desde la ingeniería biomédica, esta condición demanda soluciones que vayan más allá de los tratamientos farmacológicos limitados disponibles hoy en día. Se puede potenciar la calidad de vida de los pacientes mediante tecnologías de asistencia, como interfaces cerebro-computadora que permitan comunicarse incluso en etapas avanzadas, sistemas de ventilación no invasivos que se adapten a la función respiratoria del paciente, dispositivos de seguimiento que monitorizan la progresión de la enfermedad en tiempo real y, en un futuro, terapias de estimulación neuronal o bioimpresión de tejidos que busquen ralentizar la degeneración. 
 
-# Amputaciones
+### Referencias:
+1. Centers for Disease Control and Prevention (CDC), “About Amyotrophic Lateral Sclerosis (ALS),” *Public Health Web Page*, Nov. 2024. [En línea]. Disponible en: [https://www.cdc.gov/als/abouttheregistrymain/about-amyotrophic-lateral-sclerosis-als.html](https://www.cdc.gov/als/abouttheregistrymain/about-amyotrophic-lateral-sclerosis-als.html).  
+
+2. World Health Organization (WHO) / IARC, *Neurodegenerative Diseases*. Lyon: IARC Press, 2004. [En línea]. Disponible en: [https://publications.iarc.who.int/_publications/media/download/1417/216854435872ac5290e8f42b446ab20a9e5531f8.pdf](https://publications.iarc.who.int/_publications/media/download/1417/216854435872ac5290e8f42b446ab20a9e5531f8.pdf).  
+
+3. Centers for Disease Control and Prevention (CDC), “National ALS Registry: Impact, Challenges, and Future Directions,” *MMWR Morbidity and Mortality Weekly Report*, vol. 66, Dec. 2017. [En línea]. Disponible en: [https://www.cdc.gov/mmwr/volumes/66/wr/mm6650a3.htm](https://www.cdc.gov/mmwr/volumes/66/wr/mm6650a3.htm).  
+
+4. C. Ingre, P. Roos, F. Piehl, F. Kamel, & F. Fang, “Risk factors for amyotrophic lateral sclerosis,” *Clinical Epidemiology*, vol. 7, pp. 181–193, 2015. doi: [10.2147/CLEP.S37505](https://doi.org/10.2147/CLEP.S37505).  
+
+5. Q. Duan et al., “Risk factors of amyotrophic lateral sclerosis: a global meta-summary,” *Frontiers in Neuroscience*, vol. 17, 2023. doi: [10.3389/fnins.2023.1177431](https://doi.org/10.3389/fnins.2023.1177431).  
+
+6. A. Andrew et al., “Risk factors for amyotrophic lateral sclerosis: A regional United States case‐control study,” *Muscle & Nerve*, vol. 63, pp. 52–59, 2020. doi: [10.1002/mus.27085](https://doi.org/10.1002/mus.27085).  
+
+7. M. Vidovic et al., “Current State and Future Directions in the Diagnosis of Amyotrophic Lateral Sclerosis,” *Cells*, vol. 12, 2023. doi: [10.3390/cells12050736](https://doi.org/10.3390/cells12050736).  
+
+8. D. Yuan, S. Jiang, & R. Xu, “Clinical features and progress in diagnosis and treatment of amyotrophic lateral sclerosis,” *Annals of Medicine*, vol. 56, 2024. doi: [10.1080/07853890.2024.2399962](https://doi.org/10.1080/07853890.2024.2399962).  
+
+9. S. Siqueira et al., “Quality of life of patients with Amyotrophic Lateral Sclerosis,” *Northeast Network Nursing Journal*, vol. 18, pp. 139–146, 2017. doi: [10.15253/2175-6783.2017000100019](https://doi.org/10.15253/2175-6783.2017000100019).  
+
+10. C. Caballero-Eraso et al., “Prospective study to evaluate quality of life in amyotrophic lateral sclerosis,” *Scientific Reports*, vol. 13, 2023. doi: [10.1038/s41598-023-39147-w](https://doi.org/10.1038/s41598-023-39147-w).  
+
+11. FUNDELA, “Prevención de la esclerosis lateral amiotrófica: conocimientos de las enfermedades neurodegenerativas presintomáticas,” 2022. [Online]. Disponible en: [https://www.fundela.es/noticias/investigacion/prevencion-de-la-esclerosis-lateral-amiotrofica-conocimientos-de-las-enfermedades-neurodeg/](https://www.fundela.es/noticias/investigacion/prevencion-de-la-esclerosis-lateral-amiotrofica-conocimientos-de-las-enfermedades-neurodeg/).  
+
+12. *Rev Finlay*, “Nutrición: Una dieta rica en ácidos grasos omega 3 podría prevenir la esclerosis lateral amiotrófica.” [Online]. Disponible en: [https://revfinlay.sld.cu/index.php/finlay/announcement/view/694](https://revfinlay.sld.cu/index.php/finlay/announcement/view/694).  
+
+13. C. H. Zapata-Zapata, E. Franco-Dáger, J. M. Solano-Atehortúa, y L. F. Ahunca-Velásquez, “Esclerosis lateral amiotrófica: actualización,” *Iatreia*, vol. 29, no. 2, pp. 194–205, abr.–jun. 2016. doi: [10.17533/udea.iatreia.v29n2a08](https://doi.org/10.17533/udea.iatreia.v29n2a08).  
+
+14. M. A. G. Vucic, “Riluzole: a review of its pharmacologic properties and clinical efficacy in amyotrophic lateral sclerosis,” *Neuropsychiatric Disease and Treatment*, vol. 16, pp. 1171–1185, 2020.  
+
+15. N. Simon et al., “Quantifying Disease Progression in Amyotrophic Lateral Sclerosis,” *Annals of Neurology*, vol. 76, pp. 643–657, 2014. doi: [10.1002/ana.24273](https://doi.org/10.1002/ana.24273).  
+
+16. M. Dreger et al., “Cerebrospinal fluid biomarkers of disease activity and progression in amyotrophic lateral sclerosis,” *Journal of Neurology, Neurosurgery, and Psychiatry*, vol. 93, pp. 422–435, 2022. doi: [10.1136/jnnp-2021-327503](https://doi.org/10.1136/jnnp-2021-327503).
+
+
+## Amputaciones
 
 ## Ficha de la enfermedad
 
@@ -221,6 +292,16 @@ En resumen, el reto principal es **mejorar la precisión, comodidad y personaliz
 
 De este modo, se busca desarrollar soluciones innovadoras para una atención más efectiva y centrada en el paciente y su calidad de vida.
 
+### Referencias
+
+1. Narres, M., Kvitkina, T., Claessen, H., Droste, S., Schuster, B., Morbach, S., Rümenapf, G., Van Acker, K., & Icks, A. (2017). Incidence of lower extremity amputations in the diabetic compared with the non-diabetic population: A systematic review. *PLoS ONE*, 12. https://doi.org/10.1371/journal.pone.0182081.  
+2. Portela, F., Louzada, A., Da Silva, M., Teivelis, M., Kuzniec, S., & Wolosker, N. (2024). Analysis of Lower Limb Amputations in Brazil's Public Health System over 13 Years. *European Journal of Vascular and Endovascular Surgery: the official journal of the European Society for Vascular Surgery.* https://doi.org/10.1016/j.ejvs.2024.02.028.  
+3. Hallström, S., Svensson, A., Pivodic, A., Ólafsdóttir, A., Löndahl, M., Wedel, H., & Lind, M. (2021). Risk factors and incidence over time for lower extremity amputations in people with type 1 diabetes: an observational cohort study of 46,088 patients from the Swedish National Diabetes Registry. *Diabetologia*, 64, 2751 - 2761. https://doi.org/10.1007/s00125-021-05550-z.  
+4. Zhang, X., Li, Q., Zhou, X., Xu, Y., Shu, Z., & Deng, H. (2024). Risk factors for amputation in diabetic foot ulcers: A retrospective analysis. *International Wound Journal*, 21. https://doi.org/10.1111/iwj.14832.  
+5. Gong, H., Ren, Y., Li, Z., Zha, P., Bista, R., Li, Y., Chen, D., Gao, Y., Chen, L., Ran, X., & Wang, C. (2023). Clinical characteristics and risk factors of lower extremity amputation in the diabetic inpatients with foot ulcers. *Frontiers in Endocrinology*, 14. https://doi.org/10.3389/fendo.2023.1144806.  
+6. Rathnayake, A., Saboo, A., Malabu, U., & Falhammar, H. (2020). Lower extremity amputations and long-term outcomes in diabetic foot ulcers: A systematic review. *World Journal of Diabetes*, 11, 391 - 399. https://doi.org/10.4239/wjd.v11.i9.391.  
+7. Rodrigues, D., Carvalho, L., & Pinto, C. (2025). Lower-Limb Amputees and Family Caregivers: Challenges, Needs, and Strategies for Empowerment—A Qualitative Study. *Nursing Reports*, 15. https://doi.org/10.3390/nursrep15050166.
+
 ## Escoliosis
 
 ### Ficha de la enfermedad
@@ -263,6 +344,13 @@ La elección del tratamiento depende del tipo de escoliosis, la magnitud de la c
 
 ### Reflexión ingenieril:
 Según lo investigado, la escoliosis representa un gran desafío en el campo clínico, principalmente por la ausencia de estrategias preventivas, dado que sus causas exactas aún se desconocen. En este contexto, el enfoque actual se centra en la detección temprana y el monitoreo continuo de la enfermedad, con el objetivo de frenar su progresión. A partir de esta necesidad, surge la oportunidad de desarrollar tecnologías que faciliten la identificación y el seguimiento de la escoliosis. Entre estas destacan los dispositivos capaces de medir el ángulo de Cobb de forma menos perjudicial que las radiografías tradicionales, así como la posibilidad de crear sistemas alternativos que permitan evaluar la curvatura sin exposición a radiación o integrar mecanismos de monitoreo continuo dentro de corsés inteligentes.
+
+### Referencias:
+1. E. Hannink, F. Toye, M. Newman, and K. L. Barker, “The experience of living with adolescent idiopathic scoliosis: a qualitative evidence synthesis using meta-ethnography,” *BMC Pediatrics*, vol. 23, no. 1, Jul. 2023, doi: 10.1186/s12887-023-04183-y.  
+2. V. L. A. Soledad, *Autopercepción y estado emocional en adolescentes con escoliosis, Concepción, Rancagua, Santiago y Coyhaique 2024.*, Univ. de Concepción, 2025. [Online]. Available: https://repositorio.udec.cl/items/a6a6bfec-d0ca-4aae-b756-df91ad9bc9a8/full  
+3. “Adolescent idiopathic scoliosis,” *PubMed*, Jan. 01, 2025. [Online]. Available: https://pubmed.ncbi.nlm.nih.gov/29763083/  
+4. J. A. Janicki and B. Alman, “Scoliosis: Review of diagnosis and treatment,” *Paediatrics & Child Health*, vol. 12, no. 9, pp. 771–776, Nov. 2007, doi: 10.1093/pch/12.9.771.  
+5. T. R. Hresko, “Clinical features, diagnosis, and principles of management of adolescent idiopathic scoliosis in children and adolescents,” *UpToDate*, 2008. [Online]. Available: https://pubmed.ncbi.nlm.nih.gov/19030463/  
 
 ## Artritis
 
@@ -327,6 +415,17 @@ Se centra en dar seguimiento a los síntomas, la progresión de la enfermedad y 
 Conforme a lo investigado, se ha identificado un problema en concreto: la necesidad de un seguimiento constante y accesible del avance de la enfermedad y de cómo funcionan las articulaciones en la vida cotidiana. Tanto la OMS como la CDC, respaldan que es fundamental observar síntomas como la rigidez, el dolor, la inflamación y las limitaciones funcionales con el fin de evitar problemas a largo plazo y discapacidades[1], [5].  
 
 No obstante, una buena parte de esta vigilancia depende de las visitas clínicas periódicas, lo que puede demorar la modificación del tratamiento y restringir el pronto descubrimiento de agravamientos. Esto sugiere que se requieren tecnologías o dispositivos biomédicos que respalden la supervisión remota y objetiva de la movilidad articular. Esto posibilitaría que los profesionales sanitarios tuvieran acceso a datos más exactos y constantes para tomar decisiones[5].
+
+### Referencias:
+1. World Health Organization, "Osteoarthritis," WHO, Oct. 03, 2023. [Online]. Available: [https://www.who.int/news-room/fact-sheets/detail/osteoarthritis](https://www.who.int/news-room/fact-sheets/detail/osteoarthritis).  
+
+2. World Health Organization, "Rheumatoid arthritis," WHO, Nov. 14, 2023. [Online]. Available: [https://www.who.int/news-room/fact-sheets/detail/rheumatoid-arthritis](https://www.who.int/news-room/fact-sheets/detail/rheumatoid-arthritis).  
+
+3. Centers for Disease Control and Prevention, "What is arthritis?," CDC, Jan. 12, 2023. [Online]. Available: [https://www.cdc.gov/arthritis/basics/index.html](https://www.cdc.gov/arthritis/basics/index.html).  
+
+4. Centers for Disease Control and Prevention, "Physical activity," CDC, Jul. 25, 2022. [Online]. Available: [https://www.cdc.gov/arthritis/prevention/index.html](https://www.cdc.gov/arthritis/prevention/index.html).  
+
+5. World Health Organization, "Musculoskeletal conditions," WHO, Jul. 26, 2023. [Online]. Available: [https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions](https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions).
 
 ## Parálisis cerebral
 
@@ -393,4 +492,11 @@ Por otro lado, los tratamientos quirúrgicos ortopédicos se dan con el objetivo
 De acuerdo con la investigación, se evidenció que los mayores problemas que la enfermedad presenta, a pesar de que existen diversos métodos de prevención con mayor énfasis en la edad pediátrica, es que aún persisten, pues la mayoría de autores sostiene que el aumento de supervivencia de niños que nacen en partos pretérminos, con bajo peso o con alguna condición de salud señala una relación con este comportamiento al aumentar los factores de riesgo por un posible daño neurológico que deriva en parálisis cerebral, la cual en su mayoría son del tipo PC espástico[3],[4].  
 
 Es esencial realizar un historial clínico detallado para descartar la presencia de factores irritantes. También, se evalúa la postura natural del paciente, así como los rangos de movimiento activo y pasivo en las extremidades superiores e inferiores. Esto permite identificar retracciones, contracturas, deformidades fijas y la espasticidad. Es crucial determinar cuál grupo muscular espástico causa mayor molestia y cómo afecta la calidad de vida del paciente. Esto indica la necesidad de dispositivos biomédicos que ayuden a detectarlo de manera eficaz y brindar un adecuado tratamiento.
+
+### Referencias
+
+1. J. Gómez-López, J. Jaimes, E. Palencia Gutiérrez, A. Hernández, y Y. Guerrero, “Parálisis cerebral en la edad pediátrica y atención primaria de salud,” *Revista Cubana de Pediatría*, vol. 95, no. 1, 2023. [Online]. Disponible en: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1727-81202023000100017  
+2. A. García Ron, G. Arriola Pereda, I. S. Machado Casas, I. Pascual Pascual, M. Garriz Luis, A. García Ribes, et al., “Parálisis cerebral,” *Protocolos diagnóstico y terapéutico en pediatría*, pp. 103–114, 2022. [Online]. Disponible en: https://www.aeped.es/sites/default/files/documentos/11.pdf  
+3. M. Palay González, P. Hernández Figaredo, y C. Coca Cantero, “Parálisis cerebral en la edad pediátrica y atención primaria de salud,” *Humanidades Médicas*, vol. 23, no. 1, p. e2439, 2023. [Online]. Disponible en: https://www.medigraphic.com/pdfs/hummed/hm-2023/hm231q.pdf  
+4. D. Rojas-Villarraga, J. E. Carvajal, J. C. Rengifo, y C. E. Eslava-Schmalbach, “Espasticidad: historia, fisiopatología, evaluación clínica y terapéutica,” *Revista Colombiana de Reumatología*, vol. 28, no. 1, pp. 30–46, mar. 2021. [Online]. Disponible en: http://www.scielo.org.co/scielo.php?pid=S2011-08392021000100008&script=sci_arttext
 
