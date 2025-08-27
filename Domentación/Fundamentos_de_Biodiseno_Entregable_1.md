@@ -129,34 +129,126 @@ El monitoreo en la ELA es un proceso continuo y sistemático para evaluar la pro
 ### Reflexión ingenieril:
 Se plantea un desafío complejo en el ámbito neurológico, ya que progresa con la pérdida gradual de motoneuronas, lo que conlleva a debilidad muscular, parálisis y fallas en funciones vitales como la respiración y la deglución. Desde la ingeniería biomédica, esta condición demanda soluciones que vayan más allá de los tratamientos farmacológicos limitados disponibles hoy en día. Se puede potenciar la calidad de vida de los pacientes mediante tecnologías de asistencia, como interfaces cerebro-computadora que permitan comunicarse incluso en etapas avanzadas, sistemas de ventilación no invasivos que se adapten a la función respiratoria del paciente, dispositivos de seguimiento que monitorizan la progresión de la enfermedad en tiempo real y, en un futuro, terapias de estimulación neuronal o bioimpresión de tejidos que busquen ralentizar la degeneración. 
 
+# Amputaciones
+
+## Ficha de la enfermedad
+
+Las amputaciones no son una enfermedad en sí, sino una consecuencia de diversas patologías que afectan principalmente al sistema **musculoesquelético** y **vascular**. 
+
+Son procedimientos médicos en los que se remueve una extremidad de forma **parcial**, para rescatar la mayor parte y preservar la función, o **totalmente**, cuando la extremidad está completamente dañada y el riesgo para la vida del paciente es inminente. 
+
+Entre las principales condiciones asociadas destacan:  
+- **Diabetes mellitus**: responsable de la mayoría de amputaciones no traumáticas en miembros inferiores.  
+- **Enfermedad arterial periférica (EAP)**: al producir obstrucción arterial constituye la causa más frecuente de amputaciones mayores y de mortalidad hospitalaria tras la cirugía.  
+- **Trauma y neuropatía**, en menor medida.  
+
+El sistema afectado involucra tanto al **musculoesquelético** (huesos, músculos, tendones y articulaciones) como al **vascular** (arterias y venas de las extremidades, en especial cuando existe isquemia por EAP o microangiopatía diabética).  
+
+Desde el punto de vista anatómico, las amputaciones pueden clasificarse en:  
+- **Menores**: dedos, pie.  
+- **Mayores**: por encima del tobillo o rodilla.  
+
+Desde el punto de vista fisiológico, se relacionan con la **pérdida de irrigación sanguínea, necrosis tisular y daño irreversible**, lo que hace necesaria la remoción para prevenir infecciones y complicaciones sistémicas.  
+
+El **nivel de amputación** depende de la viabilidad de los tejidos blandos y de la capacidad de cubrir adecuadamente el hueso remanente. [1][2]  
+
+---
+
+## Factores y análisis de la enfermedad
+
+Los **factores de riesgo** que más destacan son los siguientes:  
+- Mayor incidencia en hombres.  
+- Tabaquismo.  
+- Úlceras previas.  
+- Gangrena.  
+- Mal control glucémico (HbA1c elevada).  
+- Índice tobillo-brazo bajo (indicador de enfermedad arterial periférica).  
+- Comorbilidades cardiovasculares.  
+- Edad avanzada.  
+- Insuficiencia renal.  
+- Marcadores inflamatorios elevados como leucocitosis, proteína C reactiva, NRL (índice neutrófilo-linfocito) y anemia. [3][4]  
+
+Adicionalmente, las **manifestaciones clínicas más relevantes** por las amputaciones incluyen:  
+- Úlceras crónicas que no cicatrizan.  
+- Infecciones recurrentes.  
+- Gangrena.  
+- Dolor persistente.  
+- **Dolor neuropático**, que afecta hasta un 21% de los pacientes y reduce la calidad de vida.  
+- Signos de isquemia: piel fría, palidez y ausencia de pulsos distales. [5]  
+
+El **impacto funcional** llega a ser muy significativo en la vida diaria, ya que muchos pacientes requieren muletas, silla de ruedas o prótesis. Solo un porcentaje logra caminar de forma independiente tras amputaciones mayores.  
+
+Asimismo, las amputaciones afectan de manera **psicológica y social**, provocando depresión, ansiedad y dificultades para reintegrarse al trabajo y la comunidad. [6]  
+
+---
+
+## Prevención, diagnóstico, tratamiento y monitoreo
+
+**Prevención**  
+- Control de factores de riesgo (p. ej., control estricto de la glucosa en diabéticos).  
+- Educación y cuidado del paciente.  
+- Políticas de salud pública.  
+- Equipos multidisciplinarios integrados por diabetólogos, cirujanos, podólogos, enfermeros y rehabilitadores.  
+
+**Diagnóstico**  
+- Inspección clínica.  
+- Pruebas vasculares.  
+- Clasificación de lesiones mediante el uso de escalas de riesgo.  
+
+**Tratamiento**  
+- Manejo de infecciones y heridas.  
+- Revascularización.  
+- Cirugía conservadora.  
+- Manejo del dolor.  
+
+**Monitoreo**  
+- Seguimiento estructurado.  
+- Rehabilitación y soporte psicológico.  
+- Educación continua.  
+
+---
+
+## Reflexión ingenieril
+
+Basándonos en lo expuesto anteriormente, se identifica que la mayor necesidad de las personas amputadas es **recuperar la autonomía y funcionalidad** en la vida diaria. [7]  
+
+Por tal motivo, las **tecnologías biomédicas actuales** pueden abordar problemas críticos en la atención de personas con riesgo de amputación o con discapacidad, especialmente en las áreas de:  
+- Monitorización continua.  
+- Mejora de la movilidad.  
+- Facilitación de la comunicación.  
+
+En resumen, el reto principal es **mejorar la precisión, comodidad y personalización** de los dispositivos existentes, así como su integración adecuada en la cotidianidad.  
+
+De este modo, se busca desarrollar soluciones innovadoras para una atención más efectiva y centrada en el paciente y su calidad de vida.
+
 ## Escoliosis
 
 ### Ficha de la enfermedad
-○ Nombre de la enfermedad: Escoliosis - Definida como una una curvatura lateral en la columna vertebral de al menos 10 grados según la escala de Cobbs. [17]  
-○Sistema afectado: El sistema principalmente afectado es el musculoesquelético, debido a que las deformaciones afectan a la columna vertebral y las rotaciones de las vértebras. [18]  
+○ Nombre de la enfermedad: Escoliosis - Definida como una una curvatura lateral en la columna vertebral de al menos 10 grados según la escala de Cobbs. [1]  
+○Sistema afectado: El sistema principalmente afectado es el musculoesquelético, debido a que las deformaciones afectan a la columna vertebral y las rotaciones de las vértebras. [2]  
 ○ Breve descripción anatómica/fisiológica  
-La escoliosis se define como una deformidad tridimensional de la columna vertebral, caracterizada principalmente por una curvatura lateral mayor de 10 grados en el plano coronal, acompañada de rotación vertebral y, frecuentemente, alteraciones en los planos sagital y axial. Es un síntoma, no una enfermedad en sí misma, y puede afectar a cualquier segmento de la columna( cervical, dorsal, lumbar)[17], [18].  
+La escoliosis se define como una deformidad tridimensional de la columna vertebral, caracterizada principalmente por una curvatura lateral mayor de 10 grados en el plano coronal, acompañada de rotación vertebral y, frecuentemente, alteraciones en los planos sagital y axial. Es un síntoma, no una enfermedad en sí misma, y puede afectar a cualquier segmento de la columna( cervical, dorsal, lumbar)[1], [2].  
 
 ### Factores y análisis de la enfermedad
-Edad de inicio: La escoliosis aparece con mayor frecuencia en la pubertad (10-15 años), sin embargo, no se descarta que esta pueda aparecer en adultos.[17]  
-Sexo: Afecta mayormente a la población femenina.[17], [18]  
-Etnia: Las diferencias étnicas indican que las personas de ascendencia africana tienen más probabilidades de ser diagnosticadas con escoliosis que otras etnias.[18]  
+Edad de inicio: La escoliosis aparece con mayor frecuencia en la pubertad (10-15 años), sin embargo, no se descarta que esta pueda aparecer en adultos.[1]  
+Sexo: Afecta mayormente a la población femenina.[1], [2]  
+Etnia: Las diferencias étnicas indican que las personas de ascendencia africana tienen más probabilidades de ser diagnosticadas con escoliosis que otras etnias.[2]  
 ○ Manifestaciones clínicas más relevantes:  
 Es detectado de manera visual por desviaciones en los hombros, cadera y caja toráxica. Sin embargo, la escoliosis idiopática es usualmente indolora, en adultos puede causar fatiga muscular y dolor lumbar.[17], [18]  
 ○ Breve nota sobre el impacto funcional en la vida diaria:  
-Una investigación reveló que pacientes jóvenes con escoliosis idiopática describen un cambio significativo en su vida diaria, como el abandono de pasatiempos y deportes, además de una menor participación social[19]. El dolor y la fatiga llevan a limitar estas actividades, lo que repercute también en la autoestima y la percepción de sí mismos, generando preocupación por la salud mental[19], [20].  
+Una investigación reveló que pacientes jóvenes con escoliosis idiopática describen un cambio significativo en su vida diaria, como el abandono de pasatiempos y deportes, además de una menor participación social[19]. El dolor y la fatiga llevan a limitar estas actividades, lo que repercute también en la autoestima y la percepción de sí mismos, generando preocupación por la salud mental[3], [4].  
 Otro estudio señala que en niños con escoliosis no solo se ve comprometida la participación social, sino también la movilidad física, afectando de manera directa tanto la vida del paciente como la dinámica familiar[20].  
 
 ### Prevención, diagnóstico, tratamiento y monitoreo
-No existe evidencia de una estrategia de prevención para la escoliosis idiopática del adolescente (AIS). Dado que la causa exacta es desconocida, no es posible establecer un plan preventivo. Por esta razón, el enfoque se centra en la detección temprana, con el fin de limitar la progresión de la curva y reducir el riesgo de que la enfermedad avance hasta requerir tratamiento quirúrgico.[17], [18]  
+No existe evidencia de una estrategia de prevención para la escoliosis idiopática del adolescente (AIS). Dado que la causa exacta es desconocida, no es posible establecer un plan preventivo. Por esta razón, el enfoque se centra en la detección temprana, con el fin de limitar la progresión de la curva y reducir el riesgo de que la enfermedad avance hasta requerir tratamiento quirúrgico.[1], [2]  
 
-El diagnóstico inicia al descartar causas no idiopáticas, como inicio temprano (<10 años), progresión acelerada de la curva o presencia de síntomas neurológicos. Los signos más comunes son la asimetría corporal, que puede manifestarse en hombros, pared torácica, espalda o postura en el plano coronal. Aproximadamente un 25 % de los pacientes con AIS presentan dolor de espalda[18], aunque no suele ser el síntoma principal. También deben considerarse los antecedentes familiares, dado el componente genético de la enfermedad. Estos criterios permiten diferenciar el AIS de otras formas de escoliosis (neurológica, congénita o tumoral).  
+El diagnóstico inicia al descartar causas no idiopáticas, como inicio temprano (<10 años), progresión acelerada de la curva o presencia de síntomas neurológicos. Los signos más comunes son la asimetría corporal, que puede manifestarse en hombros, pared torácica, espalda o postura en el plano coronal. Aproximadamente un 25 % de los pacientes con AIS presentan dolor de espalda[1], aunque no suele ser el síntoma principal. También deben considerarse los antecedentes familiares, dado el componente genético de la enfermedad. Estos criterios permiten diferenciar el AIS de otras formas de escoliosis (neurológica, congénita o tumoral).  
 
 Posteriormente se realiza el examen físico, que incluye la evaluación de proporciones corporales, crecimiento y signos de síndromes relacionados (p. ej., Marfan, Ehlers-Danlos, neurofibromatosis). Se inspecciona la espalda en busca de asimetrías y se aplica la prueba de flexión hacia adelante de Adams, observando la posible prominencia costal o lumbar[18]. Asimismo, se descartan discrepancias en la longitud de las piernas que puedan simular una curvatura.  
 
-Si el examen físico sugiere escoliosis, se procede a la evaluación radiográfica[18], mediante radiografías posteroanterior y lateral de columna completa en bipedestación. El diagnóstico de AIS se confirma con un ángulo de Cobb ≥10° acompañado de evidencia de rotación vertebral. Además, se analizan los marcadores de crecimiento (signo de Risser, cartílago trirradiado, madurez ósea en mano o codo) para estimar el riesgo de progresión. En casos atípicos (curvas izquierdas, síntomas neurológicos, inicio antes de los 10 años o dolor intenso), se complementa con resonancia magnética[18].  
+Si el examen físico sugiere escoliosis, se procede a la evaluación radiográfica[2], mediante radiografías posteroanterior y lateral de columna completa en bipedestación. El diagnóstico de AIS se confirma con un ángulo de Cobb ≥10° acompañado de evidencia de rotación vertebral. Además, se analizan los marcadores de crecimiento (signo de Risser, cartílago trirradiado, madurez ósea en mano o codo) para estimar el riesgo de progresión. En casos atípicos (curvas izquierdas, síntomas neurológicos, inicio antes de los 10 años o dolor intenso), se complementa con resonancia magnética[18].  
 
-El monitoreo es fundamental para evaluar la evolución de la curva y determinar si es necesario intervenir. Entre los principales parámetros de seguimiento se incluyen [17], [19], [21]:  
+El monitoreo es fundamental para evaluar la evolución de la curva y determinar si es necesario intervenir. Entre los principales parámetros de seguimiento se incluyen [1], [3], [5]:  
 - Medición del ángulo de Cobb en cada radiografía.  
 - Valoración de los marcadores de crecimiento.  
 - Observación clínica de cambios en la simetría corporal (hombros, caderas, prominencia costal).  
@@ -164,7 +256,7 @@ El monitoreo es fundamental para evaluar la evolución de la curva y determinar 
 
 La elección del tratamiento depende del tipo de escoliosis, la magnitud de la curva, el potencial de crecimiento restante y, sobre todo, la percepción del paciente sobre su apariencia. El objetivo primordial es que las curvas estén por debajo de 50° al alcanzar la madurez esquelética, evitando así progresión y complicaciones.  
 
-**Opciones de tratamiento [17], [18]:**  
+**Opciones de tratamiento [1], [2]:**  
 - **Observación:** consiste en revisiones periódicas para vigilar la progresión; es recomendable para pacientes inmaduros con curvas menores de 25°.  
 - **Tratamiento ortopédico:** uso de corsé, indicado en curvas de 25°–50° con crecimiento potencial. El éxito depende del cumplimiento estricto y del tiempo de uso diario. No corrige la curva, pero puede frenar su progresión. Sin embargo, su eficacia aún es motivo de debate.  
 - **Cirugía:** se indica en casos graves, con curvas mayores de 45° en pacientes inmaduros y de 50° en pacientes maduros. Su objetivo es prevenir la progresión, mejorar la alineación y equilibrar la columna, además de corregir la asimetría de hombros y caderas. La técnica habitual consiste en una fusión espinal con instrumentación e injerto óseo. Las técnicas actuales muestran buenos resultados con seguimientos de hasta 20 años.  
