@@ -1,7 +1,7 @@
 <div align="center">
 # Fundamentos de Biodiseño: Entregable Nº 1
 ## Grupo 8
-
+</div>
 ### Integrantes:
 - Sophia Nicole Nieves Maury
 - Daniela Alexandra Ochoa Cieza
