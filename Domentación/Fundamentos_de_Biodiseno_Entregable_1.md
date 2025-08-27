@@ -1,14 +1,18 @@
 <div align="center">
-# Fundamentos de Biodiseño: Entregable Nº 1
-## Grupo 8
+
+# Fundamentos de Biodiseño: Entregable Nº 1  
+
 </div>
+
+## Grupo 8
+
 ### Integrantes:
 - Sophia Nicole Nieves Maury
 - Daniela Alexandra Ochoa Cieza
 - Reishel Sulivan Lope Paredes
 - Maria del Carmen Paredes Cavero
 - Murga Quispe Jostin Rájhul
--  Sharon Lizeth Oré Arredondo
+- Sharon Lizeth Oré Arredondo
 
 ## Enfermedades:
 
