@@ -99,7 +99,7 @@ Desde la recuperación de la movilidad y de la autonomía hasta la prevención d
 - **Propuesta de solución desde la ingeniería:** Desarrollar un sistema de monitoreo continuo, sin llegar a ser invasivo, pero sí amigable y fácil de entender. Con sensores inerciales (giroscopios, acelerómetros) incorporados en la pulsera, para poner la velocidad en marcha. Sería cuestión de ver la variabilidad cardiaca con el proxy, e incorporar evaluaciones, para mejoras futuras. Esta app permitirá una medicina de precisión, alertando al médico si tiene bajones, o qué tipo de terapia necesita. [1,2]
 
 ### Referencias:
-- 1. World Health Organization, "Multiple sclerosis," Aug. 2023. [Online]. Available: [https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis](https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis). [Accessed: Aug. 27, 2025].  
+1. World Health Organization, "Multiple sclerosis," Aug. 2023. [Online]. Available: [https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis](https://www.who.int/es/news-room/fact-sheets/detail/multiple-sclerosis). [Accessed: Aug. 27, 2025].  
 
 2. Multiple Sclerosis International Federation, "What is MS?." [Online]. Available: [https://www.msif.org/about-ms/what-is-ms/](https://www.msif.org/about-ms/what-is-ms/). [Accessed: Aug. 27, 2025].  
 
@@ -124,7 +124,7 @@ Desde la recuperación de la movilidad y de la autonomía hasta la prevención d
 12. A. J. Thompson et al., "Diagnosis of multiple sclerosis: 2017 revisions of the McDonald criteria," *The Lancet Neurology*, vol. 17, no. 2, pp. 162–173, Feb. 2018.  
 
 13. M. Filippi et al., "Assessment of lesions on magnetic resonance imaging in multiple sclerosis: practical guidelines," *Brain*, vol. 142, no. 7, pp. 1858–1875, Jul. 2019.
-- 
+
 ---
 
 ## Esclerosis lateral amiotrófica 
