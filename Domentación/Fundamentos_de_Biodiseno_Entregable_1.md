@@ -4,8 +4,11 @@
 
 </div>
 <div align="center">
+  
 ## Grupo 8
+
 </div>
+
 ### Integrantes:
 - Sophia Nicole Nieves Maury
 - Daniela Alexandra Ochoa Cieza
