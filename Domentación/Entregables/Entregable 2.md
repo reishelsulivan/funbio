@@ -65,6 +65,7 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
 Las alteraciones cutáneas no se encuentran directamente relacionadas con la escoliosis congénita de doble curva. Los estudios existentes de la literatura científica se centran en la progresión de la curva, los factores pronósticos y los resultados radiológicos, sin mencionar afecciones dermatológicas. Unas consideraciones clínicas generales a tomar en cuenta:
 - **Manifestaciones cutáneas inespecíficas:** En algunos casos de escoliosis congénita, pueden observarse manchas cutáneas, hemangiomas o alteraciones pigmentarias, pero suelen estar asociadas a síndromes complejos o disrafismos espinales, no a la escoliosis congénita aislada de doble curva.
 - **Evaluación clínica:** Es fundamental que los médicos realicen una exploración cutánea detallada en todo paciente con escoliosis congénita para descartar signos de síndromes asociados, pero la presencia de doble curva no implica por sí misma una afección cutánea específica.
+
 No obstante, el uso de un corsé semirrígido dorsolumbar con hiperextensión puede provocar rozaduras e irritación cutánea, especialmente durante los primeros días de uso o en pacientes pediátricos.La literatura clínica y la experiencia en ortopedia pediátrica reconocen que la fricción, la presión localizada y la falta de ventilación pueden causar:
 - **Rozadura**s en zonas de contacto, como hombros, axilas, caderas y abdomen.
 - **Irritación o enrojecimiento** por sudoración y roce continuo.
