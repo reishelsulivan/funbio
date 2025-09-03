@@ -75,13 +75,20 @@ No obstante, el uso de un corsé semirrígido dorsolumbar con hiperextensión pu
 Estos efectos son más frecuentes en pieles delicadas, como la de los niños pequeños, y pueden agravarse si no se revisa la piel diariamente o si no se utilizan prendas interiores adecuadas. Es primordial la activa supervisión durante el periodo de prueba del corsé para evitar complicaciones y asegurar la tolerancia del tratamiento.
 
 ### Función sensorial:
+Del mismo modo, no se reportan alteraciones en la función sensorial primaria(tacto, dolor, temperatura), más en la situación de pacientes menores de dos años, puesto que no se describen déficits sensoriales en esta población, a menos que existan síndromes neurológicos o disrafismos espinales asociados, los cuales sí pueden afectar la función sensorial.
+
+- **Función sensorial primaria:** En ausencia de anomalías neurológicas, la sensibilidad táctil, dolorosa y térmica suele estar conservada en estos pacientes.
+- **Alteraciones motoras y posturales:** Las adaptaciones en la marcha y la integración sensorial descritas en adolescentes y adultos con escoliosis no se han documentado en menores de dos años, ya que a esta edad muchos niños aún no caminan o están en etapas iniciales de la marcha.
+- **Vigilancia clínica:** Es importante descartar signos neurológicos asociados (como pérdida de sensibilidad, debilidad o reflejos anormales), ya que estos sí justificaría estudios adicionales.
+- **Habla, lenguaje y comunicación:** Es necesario ver su capacidad de lenguaje expresivo y receptivo, si puede entender ciertas palabras (Habla con buena articulación), ver el nivel cognitivo y su capacidad de aprendizaje como la de atención. 
+
 
 ### Habla lenguaje y comunicación:
-
+En menores de dos años, no es posible analizar de manera formal y confiable su comportamiento en habla, lenguaje y comunicación como se hace en niños mayores.
 ### Desempeño funcional, de habilidades y de tareas
-
+En este caso, debido a que se trata de un menor de dos años con escoliosis congénita de doble curva, no es posible realizar una evaluación completa del desempeño funcional y de las habilidades, ya que aún se encuentra en una etapa temprana de desarrollo.
 ### Movilidad personal
-
+La movilidad corresponde a la edad, aunque la presencia de la escoliosis congénita podría condicionar limitaciones en etapas posteriores de su crecimiento.
 ### Transporte comunitario:
 - **Frecuencia de uso:** Traslados constantes hacia el Hospital María Auxiliadora, INSN e INR para realizar sus controles, radiografías, terapias y consultas.
 - **Medios utilizados:** Principalmente el transporte público (buses o combis); a veces taxis, debido a que no se posee un vehículo propio.
