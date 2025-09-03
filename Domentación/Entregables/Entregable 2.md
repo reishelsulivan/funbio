@@ -49,15 +49,17 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
 - Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
 - Postura y posicionamiento óptimo para acceder a la tecnología :No hay referencias 
 - Información adicional para la evaluación de sedestación:
-  
-  Alineación esquelética ,desviaciones o deformidades ,limitaciones fijas o flexibles ,subluxación,dislocación ,asimetrías espinales, asimetrías pélvicas (inclinación,rotación u oblicuidad ) :
-  Alteración de la segmentación vertebral de la columna dorsal que condiciona la escoliosis dorso lumbar de convexidad izquierda .Calcáneo valgo izquierdo y   derecho .Asimetría espinal ángulo dorsal:28, ángulo lumbosacro 45,5 ,ángulo de Ferguson 40 y LW: N, 5mm detrás del sacro .Además, leve rectificación de la lordosis cervical.
+  - Información adicional para la evaluación de sedestación:  
 
-Patrones de postura y movimiento , y estabilidad o soporte externo requerido :No requiere de un soporte externo .
+  - Alineación esquelética, desviaciones o deformidades, limitaciones fijas o flexibles, subluxación, dislocación, asimetrías espinales, asimetrías pélvicas (inclinación, rotación u oblicuidad):  
+    Alteración de la segmentación vertebral de la columna dorsal que condiciona la escoliosis dorso lumbar de convexidad izquierda. Calcáneo valgo izquierdo y derecho. Asimetría espinal ángulo dorsal: 28, ángulo lumbosacro: 45.5, ángulo de Ferguson: 40 y LW: N, 5mm detrás del sacro. Además, leve rectificación de la lordosis cervical.  
 
-Influencias biomecánicas y kinesiológicas :Se indicó uso de corsé semirrígido dorsolumbar con hiperextensión tipo baby boston . Recibe terapia física (hasta la fecha 4 sesiones ) 
+  - Patrones de postura y movimiento, y estabilidad o soporte externo requerido:  
+    No requiere de un soporte externo.  
 
-Potencial y tolerancia para la correción : El niño se muestra irritable y con poca colaboración lo que podría interferir con la adaptabilidad en el uso del corsé.
+  - Influencias biomecánicas y kinesiológicas:  
+    Se indicó uso de corsé semirrígido dorsolumbar con hiperextensión tipo baby boston. Recibe terapia física (hasta la fecha 4 sesiones).  
 
-
+  - Potencial y tolerancia para la corrección:  
+    El niño se muestra irritable y con poca colaboración lo que podría interferir con la adaptabilidad en el uso del corsé.  
 
