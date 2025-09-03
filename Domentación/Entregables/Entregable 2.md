@@ -105,10 +105,6 @@ La movilidad corresponde a la edad, aunque la presencia de la escoliosis congén
 - En el entorno comunitario, la familia vive en una área urbana de Lima que está lejos de los hospitales especializados, lo cual requiere que se trasladen con frecuencia y prolongados. Dado que la comunidad no brinda servicios de rehabilitación cercanos ni una infraestructura accesible, el acceso a la atención especializada depende mayormente del sistema hospitalario.
 - La familia demuestra un profundo compromiso con la salud del niño desde el punto de vista cultural y psicosocial. La madre interviene de manera activa en las terapias y se encarga de la instrucción de los ejercicios recomendados por los expertos, aunque experimenta cansancio emocional debido a que el niño no colabora mucho. A pesar de estas limitaciones, existen factores protectores importantes, como el acompañamiento de la madre y la presencia de dos hermanos sanos que constituyen una red de apoyo.
 
-### Historial de equipos anteriores:
-
-### Equipo actual:
-
 <div align="center">
   
 ## Sección 2
