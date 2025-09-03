@@ -29,12 +29,35 @@
 - **Función motora oral para el habla y la deglución:** Desarrollo del lenguaje acorde a la edad; usa palabras simples como “mamá”, “papá”, “vete” y “chau”. No se reportan alteraciones de la deglución.
 - **Estado cardíaco y respiratorio, resistencia:** Funciones conservadas, sin alteraciones cardíacas y respiratorias reportadas.
 - **Función intestinal y vesical:** Función intestinal alterada por estreñimiento y función vesical con orina cargada según refiere la madre.
-- **Estado psicosocial:** Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, presentan un estado psicosocial comprometido con la  vitalidad, salud mental y autoimagen del paciente. Por ello, el tipo de tratamiento y el apoyo social influyen significativamente en estos resultados. Sin embargo, dicha desviación en la columna vertebral se centra en niños mayores, adolescentes y adultos, ya que los instrumentos de medición de calidad de vida y salud mental requieren autoinforme o comprensión verbal, lo cual no es posible en un menor de dos años, como es el caso de nuestro paciente.
+### Estado psicosocial:
+Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, presentan un estado psicosocial comprometido con la  vitalidad, salud mental y autoimagen del paciente. Por ello, el tipo de tratamiento y el apoyo social influyen significativamente en estos resultados. Sin embargo, dicha desviación en la columna vertebral se centra en niños mayores, adolescentes y adultos, ya que los instrumentos de medición de calidad de vida y salud mental requieren autoinforme o comprensión verbal, lo cual no es posible en un menor de dos años, como es el caso de nuestro paciente.
   
-  -**Impacto directo en el paciente:** En menores de dos años, el desarrollo cognitivo y emocional aún no permite manifestaciones claras de alteración psicosocial atribuibles a la escoliosis. Los síntomas psicosociales como ansiedad, baja autoestima o problemas de autoimagen no se presentan en esta etapa.
+- **Impacto directo en el paciente:** En menores de dos años, el desarrollo cognitivo y emocional aún no permite manifestaciones claras de alteración psicosocial atribuibles a la escoliosis. Los síntomas psicosociales como ansiedad, baja autoestima o problemas de autoimagen no se presentan en esta etapa.
   
-  -**Impacto en la familia:** El estrés, la ansiedad y la carga emocional recaen principalmente en los padres o cuidadores, quienes enfrentan la incertidumbre del diagnóstico, el tratamiento y el pronóstico a largo plazo.
+- **Impacto en la familia:** El estrés, la ansiedad y la carga emocional recaen principalmente en los padres o cuidadores, quienes enfrentan la incertidumbre del diagnóstico, el tratamiento y el pronóstico a largo plazo.
   
-  -**Pronóstico a futuro:** El estado psicosocial del paciente puede verse afectado en etapas posteriores, especialmente si la deformidad progresa o requiere tratamientos invasivos, pero esto ocurre típicamente en la infancia tardía o adolescencia. Además los pacientes tratados con corsé pueden experimentar un peor estado mental en comparación con los tratados quirúrgicamente.
+- **Pronóstico a futuro:** El estado psicosocial del paciente puede verse afectado en etapas posteriores, especialmente si la deformidad progresa o requiere tratamientos invasivos, pero esto ocurre típicamente en la infancia tardía o adolescencia. Además los pacientes tratados con corsé pueden experimentar un peor estado mental en comparación con los tratados quirúrgicamente.
+
+### Estado neuromuscular y musculoesquelético:
+- Estatura: 85 cm
+- Peso : 13 kg
+- Articulaciones : Se observa que la tibia y la rodilla funcionan con normalidad mientras que ambos pies presentan un arco longitudinal interno descendido .Metatarso normal .
+- Músculos : Buen tono .No controla esfínteres.Presenta leve rectificación de la lordosis cervical lo que indica tensión muscular.
+- Influencias neurológicas :No se hace referencia o se describe reflejos primitivos, reacciones o influencias anormales.
+- Postura: Control cefálico aproximadamente a los 6 meses.Equilibrio al sentarse a los 7 meses.Marcha independiente al 1 año y 6 meses.
+- Control motor: Presenta una marcha independiente y ángulo de progresión normal. 
+- Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
+- Postura y posicionamiento óptimo para acceder a la tecnología :No hay referencias 
+- Información adicional para la evaluación de sedestación:
+  
+  Alineación esquelética ,desviaciones o deformidades ,limitaciones fijas o flexibles ,subluxación,dislocación ,asimetrías espinales, asimetrías pélvicas (inclinación,rotación u oblicuidad ) :
+  Alteración de la segmentación vertebral de la columna dorsal que condiciona la escoliosis dorso lumbar de convexidad izquierda .Calcáneo valgo izquierdo y   derecho .Asimetría espinal ángulo dorsal:28, ángulo lumbosacro 45,5 ,ángulo de Ferguson 40 y LW: N, 5mm detrás del sacro .Además, leve rectificación de la lordosis cervical.
+
+Patrones de postura y movimiento , y estabilidad o soporte externo requerido :No requiere de un soporte externo .
+
+Influencias biomecánicas y kinesiológicas :Se indicó uso de corsé semirrígido dorsolumbar con hiperextensión tipo baby boston . Recibe terapia física (hasta la fecha 4 sesiones ) 
+
+Potencial y tolerancia para la correción : El niño se muestra irritable y con poca colaboración lo que podría interferir con la adaptabilidad en el uso del corsé.
+
 
 
