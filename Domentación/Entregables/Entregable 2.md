@@ -93,7 +93,7 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
 
 <div align="center">
   
-## Sección 2:
+## Sección 2
 </div>
 
 ### Usuario: 
