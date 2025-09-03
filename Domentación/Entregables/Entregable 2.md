@@ -39,16 +39,16 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
 - **Pronóstico a futuro:** El estado psicosocial del paciente puede verse afectado en etapas posteriores, especialmente si la deformidad progresa o requiere tratamientos invasivos, pero esto ocurre típicamente en la infancia tardía o adolescencia. Además los pacientes tratados con corsé pueden experimentar un peor estado mental en comparación con los tratados quirúrgicamente.
 
 ### Estado neuromuscular y musculoesquelético:
-- Estatura: 85 cm
-- Peso : 13 kg
-- Articulaciones : Se observa que la tibia y la rodilla funcionan con normalidad mientras que ambos pies presentan un arco longitudinal interno descendido .Metatarso normal .
-- Músculos : Buen tono .No controla esfínteres.Presenta leve rectificación de la lordosis cervical lo que indica tensión muscular.
-- Influencias neurológicas :No se hace referencia o se describe reflejos primitivos, reacciones o influencias anormales.
-- Postura: Control cefálico aproximadamente a los 6 meses.Equilibrio al sentarse a los 7 meses.Marcha independiente al 1 año y 6 meses.
-- Control motor: Presenta una marcha independiente y ángulo de progresión normal. 
-- Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
-- Postura y posicionamiento óptimo para acceder a la tecnología :No hay referencias 
-- Información adicional para la evaluación de sedestación:  
+- **Estatura:** 85 cm
+- **Peso :** 13 kg
+- **Articulaciones :** Se observa que la tibia y la rodilla funcionan con normalidad mientras que ambos pies presentan un arco longitudinal interno descendido .Metatarso normal .
+- **Músculos :** Buen tono .No controla esfínteres.Presenta leve rectificación de la lordosis cervical lo que indica tensión muscular.
+- **Influencias neurológicas :** No se hace referencia o se describe reflejos primitivos, reacciones o influencias anormales.
+- **Postura:** Control cefálico aproximadamente a los 6 meses.Equilibrio al sentarse a los 7 meses.Marcha independiente al 1 año y 6 meses.
+- **Control motor:** Presenta una marcha independiente y ángulo de progresión normal. 
+- **Patrones y estrategias de movimiento:** Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
+- **Postura y posicionamiento óptimo para acceder a la tecnología :** No hay referencias 
+- **Información adicional para la evaluación de sedestación:**  
   - Alineación esquelética, desviaciones o deformidades, limitaciones fijas o flexibles, subluxación, dislocación, asimetrías espinales, asimetrías pélvicas (inclinación, rotación u oblicuidad):  
     Alteración de la segmentación vertebral de la columna dorsal que condiciona la escoliosis dorso lumbar de convexidad izquierda. Calcáneo valgo izquierdo y derecho. Asimetría espinal ángulo dorsal: 28, ángulo lumbosacro: 45.5, ángulo de Ferguson: 40 y LW: N, 5mm detrás del sacro. Además, leve rectificación de la lordosis cervical.  
 
@@ -64,15 +64,15 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
 
 
 ### Transporte comunitario:
-- Frecuencia de uso: Traslados constantes hacia el Hospital María Auxiliadora, INSN e INR para realizar sus controles, radiografías, terapias y consultas.
-- Medios utilizados: Principalmente el transporte público (buses o combis); a veces taxis, debido a que no se posee un vehículo propio.
-- Accesibilidad: El transporte público no tiene las condiciones apropiadas para un niño pequeño que lleva puesto un corsé o dispositivos ortésicos.
-- Dificultades: 
+- **Frecuencia de uso:** Traslados constantes hacia el Hospital María Auxiliadora, INSN e INR para realizar sus controles, radiografías, terapias y consultas.
+- **Medios utilizados:** Principalmente el transporte público (buses o combis); a veces taxis, debido a que no se posee un vehículo propio.
+- **Accesibilidad:** El transporte público no tiene las condiciones apropiadas para un niño pequeño que lleva puesto un corsé o dispositivos ortésicos.
+- **Dificultades:** 
   - Los desplazamientos largos producen fatiga e irritabilidad en el enfermo.
   - Peligro de incomodidad o posturas inapropiadas durante el viaje
   - Posibilidad de estar expuesto a entornos peligrosos (conglomeraciones, contaminación)
-- Carga familiar: La madre asume toda la responsabilidad de trasladar al niño, lo que supone un esfuerzo tanto físico como económico.
-- Perspectiva futuro: Conforme el paciente crezca y necesite más soporte ortopédico, los viajes se tornarán más complicados y requerirán soluciones de transporte adaptadas y seguras.
+- **Carga familiar:** La madre asume toda la responsabilidad de trasladar al niño, lo que supone un esfuerzo tanto físico como económico.
+- **Perspectiva futuro:** Conforme el paciente crezca y necesite más soporte ortopédico, los viajes se tornarán más complicados y requerirán soluciones de transporte adaptadas y seguras.
 
 ### Entornos
 - El niño vive en una casa de material precario (triplay) y tiene acceso limitado a servicios básicos (únicamente electricidad). Las condiciones físicas de la vivienda indican áreas pequeñas, lo que hace complicado llevar a cabo actividades de estimulación y ejercicios de rehabilitación en un entorno ideal. No se hace referencia a modificaciones en la vivienda para ayudar al menor a moverse o recibir tratamiento.
