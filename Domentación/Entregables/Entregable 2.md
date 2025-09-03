@@ -7,7 +7,8 @@
   
 ## Sección 1:
 </div>
-### 1. Información personal:
+---
+### Información personal:
 - Nombre y dirección del cliente, información de contacto: Araos Gutiérrez Yeferson, historia clínica N.° 455249, residente en Lima.
 - Fecha de nacimiento, género: 27 de septiembre de 2023, sexo masculino.
 - Médico(s) y especialistas: Inicialmente fue evaluado en el Hospital María Auxiliadora en Neurocirugía, posterior a ello, fue trasladado al Instituto Nacional de Salud del Niño(INSN) en neurocirugía.
