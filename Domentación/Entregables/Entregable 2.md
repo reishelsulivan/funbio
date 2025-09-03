@@ -62,6 +62,16 @@ Los pacientes con escoliosis congénita, incluyendo aquellos de doble curva, pre
     El niño se muestra irritable y con poca colaboración lo que podría interferir con la adaptabilidad en el uso del corsé.  
 
 ### Afección de la piel:
+Las alteraciones cutáneas no se encuentran directamente relacionadas con la escoliosis congénita de doble curva. Los estudios existentes de la literatura científica se centran en la progresión de la curva, los factores pronósticos y los resultados radiológicos, sin mencionar afecciones dermatológicas. Unas consideraciones clínicas generales a tomar en cuenta:
+- **Manifestaciones cutáneas inespecíficas:** En algunos casos de escoliosis congénita, pueden observarse manchas cutáneas, hemangiomas o alteraciones pigmentarias, pero suelen estar asociadas a síndromes complejos o disrafismos espinales, no a la escoliosis congénita aislada de doble curva.
+- **Evaluación clínica:** Es fundamental que los médicos realicen una exploración cutánea detallada en todo paciente con escoliosis congénita para descartar signos de síndromes asociados, pero la presencia de doble curva no implica por sí misma una afección cutánea específica.
+No obstante, el uso de un corsé semirrígido dorsolumbar con hiperextensión puede provocar rozaduras e irritación cutánea, especialmente durante los primeros días de uso o en pacientes pediátricos.La literatura clínica y la experiencia en ortopedia pediátrica reconocen que la fricción, la presión localizada y la falta de ventilación pueden causar:
+- **Rozadura**s en zonas de contacto, como hombros, axilas, caderas y abdomen.
+- **Irritación o enrojecimiento** por sudoración y roce continuo.
+- **Lesiones** por presión si el corsé no está bien ajustado o si se usa por periodos prolongados sin supervisión
+
+
+Estos efectos son más frecuentes en pieles delicadas, como la de los niños pequeños, y pueden agravarse si no se revisa la piel diariamente o si no se utilizan prendas interiores adecuadas. Es primordial la activa supervisión durante el periodo de prueba del corsé para evitar complicaciones y asegurar la tolerancia del tratamiento.
 
 ### Función sensorial:
 
