@@ -159,7 +159,7 @@ El dolor en pacientes con escoliosis congénita asociada a hemivértebra y agene
 
 <div align="center">
   
-**Table III. Evaluación del dolor en niños según la edad**
+**Tabla III. Evaluación del dolor en niños según la edad**
 
 | Edad     | Síntomas de dolor típicos                                | Evaluación posible             | Citaciones      |
 |----------|----------------------------------------------------------|--------------------------------|-----------------|
@@ -172,4 +172,22 @@ El dolor en pacientes con escoliosis congénita asociada a hemivértebra y agene
   
 .El tratamiento de la escoliosis congénita difiere con respecto a la edad de presentación. En los niño, los objetivos son diferentes, y la estrategia terapéutica debe variar según la edad del paciente. El objetivo del manejo en la infancia es permitir el crecimiento guiado de la columna hasta que el niño alcance los 10 a 12 años de edad, momento en el que puede realizarse una fusión definitiva.[nr1]
 
+## Referencias:
+
+[1]Campbell, R. M., Smith, M. D., Mayes, T. C., Mangos, J. A., Willey-Courand, D. B., Kose, N., ... & Baylen, B. G. (2013). Vertebra-to-vertebra VEPTR technique for congenital scoliosis with rib agenesis. Spine, 38(20), E1288–E1292. https://doi.org/10.1097/BRS.0b013e3182a41d2a
+
+[2]J. Wang, J. Zhang, R. Xu, T. G. Chen, K. S. Zhou y H. H. Zhang, “Measurement of scoliosis Cobb angle by end vertebra tilt angle method,” *Journal of Orthopaedic Surgery and Research*, vol. 13, Art. no. 223, 4 de septiembre de 2018, doi: 10.1186/s13018-018-0928-5.
+
+[3] J. Díaz J., C. Schröter G. y R. Schulz l., “Actualización de la evaluación radiológica de la escoliosis,” *Revista Chilena de Radiología*, vol. 15, no. 3, pp. 141–151, 2009, doi: https://doi.org/10.4067/S0717-93082009000300007.
+
+
+[4]A. Tikoo, M. K. Kothari, K. Shah, and A. Nene, “Current concepts - Congenital scoliosis,” The Open Orthopaedics Journal, vol. 11, no. 1, pp. 337–345, Apr. 2017, doi: 10.2174/1874325001711010337.
+
+[5] G. Burnei, T.-S. Gavriliu, I. Georgescu, C. Vlad, y C. Burnei, “An unusual case of congenital scoliosis associated with rib agenesis in the upper part of the concavity treated by VEPTR vertebra to vertebra”, The Spine Journal, vol. 13, núm. 11, pp. e49–e53, nov. 2013, doi: 10.1016/j.spinee.2013.06.086.
+
+[6] M. Crostelli,  oSVALDO Mazza, y M. Mariani, “Posterior approach lumbar and thoracolumbar hemivertebra resection in congenital scoliosis in children under 10 years of age: results with 3 years mean follow up | European Spine Journal”, Springer Nature Link, vol. 23, pp. 209–215, 08 2013, doi: 10.1007/s00586-013-2933-z.
+
+[7] S. Zhao, X. Xue, K. Li, F. Miao, y B. Zhao, “Two-staged posterior osteotomy surgery in complex and rigid congenital scoliosis in younger than 10 years old children”, BMC Musculoskeletal Disorders, vol. 22, núm. 1, p. 788, sep. 2021, doi: 10.1186/s12891-021-04682-y.
+
+[8] H. Haapala et al., “Surgical and Health-related Quality of life Outcomes in Children With Congenital Scoliosis During 5-year Follow-up. Comparison to Age and Sex-matched Healthy Controls”, Journal of Pediatric Orthopaedics, vol. 43, núm. 6, p. e451, jul. 2023, doi: 10.1097/BPO.0000000000002408
 
