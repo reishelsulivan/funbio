@@ -151,26 +151,24 @@ A pesar de estos desafíos, el control de la progresión de la curva puede reduc
   
 ### Mapa de dolor (Pain Points):
 El dolor en pacientes con escoliosis congénita asociada a hemivértebra y agenesia de costilla suele ser localizado en la región de la deformidad, de tipo mecánico y relacionado con la postura o la actividad. La presencia de dolor irradiado o síntomas neurológicos sugiere complicaciones asociadas y requiere evaluación adicional. Entre las características del dolor ante dicha condición generalmente es mecánico, relacionado con las posturas, el esfuerzo físico o el tiempo prolongado en una posición. Además la intensidad varía según la progresión de la deformidad y la presencia de otras anomalías (como estenosis, siringomielia o malformaciones asociadas).Es importante destacar que en menores de dos años con escoliosis congénita, hemivértebra y agenesia costal, el dolor es poco frecuente y difícil de evaluar de forma confiable.
-- **Prevalencia y características:** En lactantes y niños pequeños, el dolor relacionado con la escoliosis congénita es raro. La mayoría de los estudios y reportes de casos en esta franja etaria no describen dolor como síntoma principal, incluso en presencia de hemivértebra y agenesia de costilla.[nr1][n2][n3]
-- **Manifestaciones clínicas:** Cuando hay dolor, suele manifestarse de manera inespecífica: irritabilidad, llanto persistente, rechazo a la movilización o posturas anómalas, pero no se presenta un “mapa de dolor” localizado como en niños mayores o adultos.[nr1][n2][n3]
-- **Evaluación del dolor:** la valoración se basa en la observación de cambios en el comportamiento, el llanto y la respuesta al movimiento, ya que los menores de dos años no pueden verbalizar ni señalar el dolor.[nr1][n3]
+- **Prevalencia y características:** En lactantes y niños pequeños, el dolor relacionado con la escoliosis congénita es raro. La mayoría de los estudios y reportes de casos en esta franja etaria no describen dolor como síntoma principal, incluso en presencia de hemivértebra y agenesia de costilla.[4][5][6]
+- **Manifestaciones clínicas:** Cuando hay dolor, suele manifestarse de manera inespecífica: irritabilidad, llanto persistente, rechazo a la movilización o posturas anómalas, pero no se presenta un “mapa de dolor” localizado como en niños mayores o adultos.[4][5][6]
+- **Evaluación del dolor:** la valoración se basa en la observación de cambios en el comportamiento, el llanto y la respuesta al movimiento, ya que los menores de dos años no pueden verbalizar ni señalar el dolor.[4][6]
 
 </div>
 
 <div align="center">
   
-**Tabla III. Evaluación del dolor en niños según la edad**
+**Tabla III. Manifestaciones y evaluación del dolor según la edad**
 
 | Edad     | Síntomas de dolor típicos                                | Evaluación posible             | Citaciones      |
 |----------|----------------------------------------------------------|--------------------------------|-----------------|
-| < 2 años | Raro, inespecífico (irritabilidad, llanto, posturas)     | Observación conductual          | [n1][n2][n3]    |
-| > 2 años | Dolor localizado, mecánico, postural                     | Informe verbal y observación    | [n4][n5]        |
+| < 2 años | Raro, inespecífico (irritabilidad, llanto, posturas)     | Observación conductual          | [4][5][6]    |
+| > 2 años | Dolor localizado, mecánico, postural                     | Informe verbal y observación    | [7][8]        |
 
 </div>
 
 <div align="justify">
-  
-.El tratamiento de la escoliosis congénita difiere con respecto a la edad de presentación. En los niño, los objetivos son diferentes, y la estrategia terapéutica debe variar según la edad del paciente. El objetivo del manejo en la infancia es permitir el crecimiento guiado de la columna hasta que el niño alcance los 10 a 12 años de edad, momento en el que puede realizarse una fusión definitiva.[nr1]
 
 ## Referencias:
 
