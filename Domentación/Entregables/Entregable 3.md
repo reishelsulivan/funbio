@@ -146,3 +146,5 @@ A pesar de estos desafíos, el control de la progresión de la curva puede reduc
 - Disponibilidad de tecnología médica emergente, como escaneo 3D y fabricación digital, que podría reducir el tiempo de toma de medidas y la incomodidad del yeso.
 
 </div>
+
+### Mapa de dolor (Pain Points):
