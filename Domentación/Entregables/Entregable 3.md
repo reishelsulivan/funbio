@@ -32,7 +32,7 @@ Escoliosis leve : Curvas menores de 20°
 Escoliosis moderada : Curvas de 20° hasta 40° 
 Escoliosis severa: Curvas mayores de 50°
 Por otro lado , índice de Risser estudia el grado de aparición del núcleo de osificación de la cresta ilíaca y su fusión al ala ilíaca .Esto se utiliza para dar una estimación de madurez ósea. [3]
-
+<div align="center">
 **Tabla I. Índice de Risser (4,13)**
 | Risser   | Descripción                                                   |
 |----------|---------------------------------------------------------------|
@@ -42,7 +42,7 @@ Por otro lado , índice de Risser estudia el grado de aparición del núcleo de 
 | Risser 3 | Id hasta 75%                                                  |
 | Risser 4 | 100% de osificación, aún sin fusión completa                  |
 | Risser 5 | Núcleo de osificación completamente fusionado                 |
-
+</div>
 
 ### Mapa de actividades críticas:
 #### Actividades de la Vida Diaria (ADL):
@@ -73,6 +73,7 @@ Principales dificultades:
 - Falta de motivación para hacer ejercicio de forma regular.
 - Coordinar el uso del corsé con el programa de ejercicios requiere mucho compromiso.
 A pesar de estos desafíos, el control de la progresión de la curva puede reducir la necesidad de cirugía en el futuro y mejorar el funcionamiento diario y la confianza en uno mismo.
+<div align="center">
 **Tabla II. Mapa de actividades críticas**
 | Categoría              | Independencia | Dificultades principales                | Impacto en calidad de vida                               |
 |-------------------------|---------------|-----------------------------------------|----------------------------------------------------------|
@@ -80,7 +81,7 @@ A pesar de estos desafíos, el control de la progresión de la curva puede reduc
 | **Laborales / educativas** | Independiente | Posturas prolongadas, fatiga, dolor      | Impacto en rendimiento y sociabilidad                    |
 | **Rehabilitación**      | Independiente | Adherencia, complejidad técnica          | Mejora alineación, dolor, función respiratoria           |
 | **Prevención / progresión** | Independiente | Incomodidad, falta de motivación         | Control de curva, funcionalidad, autoestima              |
-
+</div>
 
 ### Barreras y facilitadores
 #### Barreras:
