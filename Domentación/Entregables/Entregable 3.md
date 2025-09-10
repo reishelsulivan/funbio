@@ -32,7 +32,9 @@ Escoliosis leve : Curvas menores de 20°
 Escoliosis moderada : Curvas de 20° hasta 40° 
 Escoliosis severa: Curvas mayores de 50°
 Por otro lado , índice de Risser estudia el grado de aparición del núcleo de osificación de la cresta ilíaca y su fusión al ala ilíaca .Esto se utiliza para dar una estimación de madurez ósea. [3]
+
 <div align="center">
+  
 **Tabla I. Índice de Risser (4,13)**
 | Risser   | Descripción                                                   |
 |----------|---------------------------------------------------------------|
@@ -42,6 +44,7 @@ Por otro lado , índice de Risser estudia el grado de aparición del núcleo de 
 | Risser 3 | Id hasta 75%                                                  |
 | Risser 4 | 100% de osificación, aún sin fusión completa                  |
 | Risser 5 | Núcleo de osificación completamente fusionado                 |
+
 </div>
 
 ### Mapa de actividades críticas:
