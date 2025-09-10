@@ -169,6 +169,17 @@ El dolor en pacientes con escoliosis congénita asociada a hemivértebra y agene
 </div>
 
 <div align="justify">
+  
+### Expectativas del usuario (simuladas o tomadas de la literatura)
+
+El paciente, Yeferson Araos Gutierrez, con una edad de 1 año y 10 meses, está diagnosticado con escoliosis congénita dorsolumbar moderada (Q76.3). Posee un perfil clínico médicamente complicado por su corta edad y su bajo sistema inmune, tiene una naturaleza estructural de su deformidad vertebral, limitando la colaboración durante las observaciones y tratamientos periódicos. Al no poder comunicar verbalmente su respaldo, podemos inferir sus falencias y futuros objetivos, para ver su mejora en su salud.
+Los objetivos principales vienen en relación a la progresión de la curvatura, mejorar la función motora y garantizar una calidad de vida aceptable durante su desarrollo. Puesto que todavía no es candidato a cirugía (por su corta edad), el tratamiento centra su uso de corsé y terapia física. Así, la expectativa primordial es controlar la progresión de la curva mediante dispositivos ortopédicos y ejercicios específicos, con el fin de evitar intervenciones quirúrgicas futuras [4][7].
+Entre las objetivos funcionales y diarios se encuentran:
+- Tener una movilidad estable e independiente: Aunque el niño ya camina de forma autónoma, se busca que su caminar no se vea afectado por la asimetría pélvica (desbalance postural). Con eso, evitar caídas y obtener un mejor equilibrio [8].
+- Adaptación al uso del corsé: Por su irritabilidad y baja tolerancia a la manipulación, es necesario adaptar al niño progresivamente al corsé semirrígido y luego al rígido, teniendo un buen material que pueda apoyar con la comodidad y no tenga efectos de “ronchas” en el niño, para minimizar el rechazo y las molestias cutáneas. Para ver su efectividad al controlar las curvas. [5][6].
+- Prevención de complicaciones respiratorias y digestivas: La escoliosis dorsal puede afectar la capacidad pulmonar y causar estreñimiento. Con el uso del corsé y la terapia física se espera mantener una función respiratoria y digestiva adecuadas [4][7].
+- Desarrollo psicomotor dentro de los límites normales: A pesar de la escoliosis, se espera que el niño alcance logros del desarrollo físico y mental a su edad, con especial atención a la coordinación, fuerza muscular y autonomía en actividades básicas [8].
+
 
 ## Referencias:
 
