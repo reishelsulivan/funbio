@@ -5,20 +5,45 @@
 </div>
 <div align="center">
   
-## Sección 1:
+## Contenido:
 </div>
 
-### Información personal:
-- **Nombre y dirección del cliente, información de contacto:** Araos Gutiérrez Yeferson, historia clínica N.° 455249, residente en Lima.
-- **Fecha de nacimiento, género:** 27 de septiembre de 2023, sexo masculino.
-- **Médico(s) y especialistas:** Inicialmente fue evaluado en el Hospital María Auxiliadora en Neurocirugía, posterior a ello, fue trasladado al Instituto Nacional de Salud del Niño(INSN) en neurocirugía.
-- **Fuente de referencia y motivo de la referencia:** Referido desde el Hospital María Auxiliadora el 22 de abril de 2025, con motivo de escoliosis congénita y sospecha de disrafismo.
-- **Regímenes de tratamiento médico o terapéutico existentes y sus objetivos:** Indicación de corsé tipo Baby Boston, cuatro sesiones de terapia física, cinco de psicología y tres de servicio social. Posteriormente, prueba de corsé semirrígido dorsolumbar con hiperextensión, junto con nuevas sesiones de terapia física y seguimiento en Desarrollo Psicomotor para manejo sensorial.
-### Financiamiento:
-- Fuentes de financiamiento para la evaluación, el equipo, el seguimiento y la capacitación: No se especifican fuentes de financiamiento directas en el caso.
-- Política de la fuente de financiamiento, criterios de aprobación y flexibilidad: Se mencionan limitaciones relacionadas con la confección de corsés. En el INR solo se fabrican corsés de yeso(tradicional) sin el sistema de escáner requerido.
-- Aseguradora, número de póliza, nombre y número de teléfono de contacto: No se reporta información de aseguradora, póliza o contactos.
-- Alternativas de financiamiento: El paciente requerirá cambios frecuentes de corsé debido a su crecimiento. Esto implica costos continuos y supone una limitación importante en el seguimiento terapéutico. No se mencionan alternativas de financiamientos.
+### Caso de referencia:
+#### Caso 1: Escoliosis congénita (niño pequeño):
+Edad: Niño de 1 año con 10 meses
+Diagnóstico: Escoliosis congénita asociada a hemivértebra y agenesia de costilla, tratado con un dispositivo quirúrgico especial (VEPTR, un implante expansible)
+Situación general: El paciente requería de controles constantes debido al avance de la curvatura anormal de la columna vertebral. Su anatomía en particular dificultaba el uso de técnicas estándar, lo que forzó a un tratamiento más individualizado.
+Relevancia para el análisis: Este caso permite analizar las similitudes que existen en la evolución de la enfermedad y demuestra la necesidad de monitoreo continuo y no invasivo de la progresión de la escoliosis, especialmente en los niños pequeños que crecen rápido.
+#### Caso 2: Artritis idiopática juvenil (AIJ)
+Edad: Niño de 3 años
+Diagnóstico: Artritis séptica, pero tiempo después confirmaron su diagnóstico como artritis idiopática juvenil sistémica (sJIA).
+Situación general: La tardía respuesta en el diagnóstico generó períodos de dolor y limitación funcional . Requirió tratamiento reumatológico para controlar la inflamación
+Relevancia para el análisis: Este caso destaca la importancia de hacer un diagnóstico y seguimiento de las enfermedades musculoesqueléticas en los niños a tiempo para prevenir secuelas funcionales y hace visible que la escasa detección temprana o un control inadecuado pueden dificultar el tratamiento clínico y restringir la independencia en la vida cotidiana.
+#### Caso 3: Amputación transtibial unilateral (adulto)
+Edad: Hombre de 50 años 
+Diagnóstico: Gangrena del pie izquierdo con necesidad de amputación transtibial (debajo de la rodilla).
+Situación general: Logró reincorporarse parcialmente a sus actividades diarias con ayuda de una prótesis transtibial, aunque con limitaciones iniciales en balance y coordinación.
+Relevancia para el análisis: Este caso permite reflexionar sobre la manera en que las alteraciones musculoesqueléticas cambian el equilibrio, la postura y la movilidad. Se apoya la noción de que las alteraciones de este sistema afectan considerablemente a la funcionalidad y a la calidad de vida, lo que requiere estrategias personalizadas de seguimiento y rehabilitación.
+
+### Perfil funcional:
+La principal habilidad que presenta el paciente es el desarrollo psicomotor .Camina sin algún apoyo externo ya que posee buenas bases de suspensión y tono muscular .En relación a las limitaciones que podría presentar el niño a largo plazo , se encuentra que el corsé que usa le provoca incomodidad debido a su rigidez por lo que incluso puede causar heridas cutáneas .
+Para evaluar la escoliosis , se utilizan diversos métodos. Entre ellos se encuentra el “ángulo de Cobb” que se emplea para determinar la inclinación de curva de las vértebras ( suma de ángulo de las vértebras superiores e inferiores ) mediante la radiografía .El diagnóstico de esta afección puede clasificarse en tres :[2] 
+Escoliosis leve : Curvas menores de 20° 
+Escoliosis moderada : Curvas de 20° hasta 40° 
+Escoliosis severa: Curvas mayores de 50°
+Por otro lado , índice de Risser estudia el grado de aparición del núcleo de osificación de la cresta ilíaca y su fusión al ala ilíaca .Esto se utiliza para dar una estimación de madurez ósea. [3]
+**Tabla I. Índice de Risser (4,13)**
+
+| Risser   | Descripción                                                   |
+|----------|---------------------------------------------------------------|
+| Risser 0 | Sin aparición de núcleo de osificación de la cresta ilíaca    |
+| Risser 1 | Inicio de la osificación desde lateral, hasta 25%             |
+| Risser 2 | Id hasta 50%                                                  |
+| Risser 3 | Id hasta 75%                                                  |
+| Risser 4 | 100% de osificación, aún sin fusión completa                  |
+| Risser 5 | Núcleo de osificación completamente fusionado                 |
+
+
 ### Diagnóstico e historial médico:
 - **Diagnóstico principal, diagnósticos secundarios, inicio, tratamiento, pronóstico:** El diagnóstico inicial fue escoliosis congénita por malformación ósea (Q76.3). Posteriormente se especificó como una escoliosis dorsolumbar congénita dorsal izquierda moderada. En la última consulta, se indicó una escoliosis de doble curva: dorsal izquierda moderada y lumbar derecha moderada congénita. El inicio se observó alrededor del año y dos meses de edad. El tratamiento incluye uso de corsé (Baby Boston y semirrígido dorsolumbar de prueba), sesiones de terapia física, apoyo psicológico y seguimiento en Desarrollo Psicomotor. El pronóstico es reservado, ya que no es candidato a cirugía por la poca edad del paciente y además, requerirá cambios seguidos del corsé debido a que está en pleno desarrollo.
 
