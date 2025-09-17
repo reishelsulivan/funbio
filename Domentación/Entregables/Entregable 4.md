@@ -3,7 +3,9 @@
 # Fundamentos de Biodiseño: Entregable Nº 4
 
 </div>
- 
+
+<div align="justify">
+
 ## Identificación de la necesidad
 El caso de estudio se da en un contexto de circunstancias complejas, donde las dificultades que se presentan para el paciente y su familia son las que terminan exhibiendo los vacíos estructurales y elementales de la medicina tradicional. A partir de ello se han identificado necesidades que, si bien no comprometen de manera vital la vida del paciente, si son relevantes para su calidad de vida, desarrollo integral y un buen funcionamiento del tratamiento dado. Estas carencias, no cubiertas por la medicina de hoy en día, explican el porqué existen casos como este. En ese sentido, se evidencia la urgente tarea de  diseñar soluciones accesibles, eficaces y centradas en el paciente, que respondan y tengan en cuenta no sólo sus limitaciones físicas, sino también sociales, económicas y personales. Por ello, este trabajo se orienta en el desarrollo de una opción ortopédica, correctiva y continua que vaya de la mano de una mayor comodidad, tolerancia y adaptabilidad para el paciente.
 
@@ -51,8 +53,6 @@ La decisión de enfocarse en este ámbito del problema es que, un buen y tempran
 - Breve descripción funcional :Cor-esc-5 usa sensores no invasivos para realizar seguimiento a través de los datos que el sistema recopila .Esto permite que el médico pueda evaluar de manera más personalizada  la adaptación y el ajuste del corsé para con el paciente.  La función u objetivo de este dispositivo es monitorear en tiempo real la adherencia y el ajuste del corsé mediante sensores de temperatura y presión .
 - Ventajas :Este dispositivo es innovador pues se puede adherir a cualquier tipo de corsé ortopédico lo que lo hace sencillo y práctico en cuanto a la integración .Además ,puede conectarse, mediante bluetooth, a un dispositivo para monitorear  el tiempo de uso  
 - Desventajas : Es un producto relativamente nuevo por lo que presenta ciertas limitaciones como en el rango de la conexión bluetooth que varía entre 10- 15 metros .Por otro lado , el dispositivo requiere recargarse cada cinco días lo que causaría un análisis de datos menos eficaz .
-
-<div align="center">
   
 ### Serial Elongation–Derotation–Flexion Casting for Early-Onset Scoliosis
 - Autor, empresa o institución responsable: E.H.Abdelgawad/ Department of Orthopaedic Surgery, University of Texas Medical Branch (UTMB), USA.
