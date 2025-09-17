@@ -26,8 +26,8 @@ La decisión de enfocarse en este ámbito del problema es que, un buen y tempran
 - Breve descripción funcional: Thermobrace es un dispositivo electrónico que tiene la forma de un pequeño sensor de temperatura; se sitúa dentro de cualquier corsé y registra automáticamente la temperatura del cuerpo del paciente. Su objetivo es establecer con exactitud las horas reales de utilización del corsé, brindando a padres y médicos datos objetivos sobre la adherencia al tratamiento.
 - Ventajas: Con respecto a la innovación, agrega un valor adicional al transformar un corsé convencional en uno "inteligente", porque implementa el monitoreo objetivo del desempeño. En cuanto a los beneficios para el usuario, mejora la comunicación entre médicos y familiares, ya que los datos hacen posible relacionar el desarrollo de la escoliosis con las horas efectivas de uso. Además, el sensor es pequeño y discreto, por lo que no interfiere con la rutina del paciente. Se incorpora al corsé sin cambiar su estructura, lo que permite un uso sencillo.
 - Desventaja: En limitaciones técnicas,únicamente mide la temperatura, no proporciona información sobre la calidad del ajuste ni sobre qué tan eficaz es el corsé mecánicamente. Además, si no se coloca de manera adecuada, puede registrar datos incorrectos. En cuanto a los costos, supone un desembolso extra al corsé convencional, lo cual podría ser un obstáculo para las familias con menos recursos. En cuanto al mantenimiento, es necesario recargar o sustituir la batería y descargar los datos de forma regular, lo que supone una tarea adicional para el tratamiento. Por último, en relación con los obstáculos para la adopción, no está disponible en todos los centros ortopédicos y ciertos padres pueden oponerse a utilizar dispositivos electrónicos para niños pequeños debido a la falta de familiaridad o a sus preocupaciones sobre el manejo de datos.
-- 
-![Boston Brace Baby](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/corerc.jpg)
+  
+![THERMOBRACE](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/thermobrace.jpg)
 
 ### Turtlebrace TLSO
 - Autor, empresa o institución responsable: Turtlebrace Inc., Québec, Canadá.
@@ -41,7 +41,7 @@ La decisión de enfocarse en este ámbito del problema es que, un buen y tempran
 - Breve descripción funcional: Se trata de un sistema de varillas de crecimiento implantables para niños con escoliosis de inicio temprano. Estas varillas se fijan a la columna mediante cirugía y luego se pueden alargar de manera no invasiva usando un control magnético externo, evitando múltiples operaciones abiertas. Su función principal es corregir progresivamente la curvatura de la columna mientras se permite el crecimiento natural del niño.
 - Ventajas: En innovación, representa una revolución al reducir la necesidad de cirugías repetidas bajo anestesia, ya que los ajustes se realizan externamente en consultorio. En cuanto a seguridad, disminuye los riesgos asociados a procedimientos quirúrgicos frecuentes como infecciones, pérdida sanguínea o complicaciones anestésicas. En calidad de vida, el niño y la familia experimentan menos hospitalizaciones y un tratamiento más dinámico y predecible. Además, permite un control progresivo de la corrección.
 - Desventajas: En limitaciones técnicas, existe riesgo de complicaciones mecánicas como fallo del sistema magnético, fractura o desgaste de la varilla, lo que puede requerir cirugía correctiva. En cuanto a costos, es un tratamiento altamente caro y restringido a hospitales especializados, lo que limita su accesibilidad. En candidaturas, no todos los pacientes pueden ser tratados con este sistema, ya que depende del tipo de curva, edad, peso y condiciones anatómicas. Además, se requiere seguimiento estricto y especializado a largo plazo.
-
+  
 Referencia:
 Hickey, B. A., Towriss, C., Baxter, G., Yasso, S., James, S., Jones, A., Howes, J., Davies, P., & Ahuja, S. (2014). Early experience of MAGEC magnetic growing rods in the treatment of early onset scoliosis. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society, 23 Suppl 1(Suppl 1), S61–S65. https://doi.org/10.1007/s00586-013-3163-0
 
@@ -51,11 +51,16 @@ Hickey, B. A., Towriss, C., Baxter, G., Yasso, S., James, S., Jones, A., Howes, 
 - Ventajas : El corsé ScoliBrace es considerado moderno e innovador puesto que se adapta las necesidades del paciente .Se ajusta al cuerpo lo que disminuye la incomodidad y el dolor .El impacto más notable que presenta para los usuarios es la ligereza y practicidad .
 - Desventajas:Las limitaciones técnicas que presentan son similares a un corsé convencional a pesar de que sean personalizados pues aún puede causar incomodidad ,calor e incluso dificultad para realizar respiraciones profundas  . La progresión de las correcciones de la columna dependen de la edad del paciente , su flexibilidad , el tipo de curva que presenta y los factores etiológicos . El producto es poco accesible .
 
+![Scolibrace](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/scolibrace.jpg)
+
+
 ### Cor-esc-25
 - Autor ,empresa o institución responsable : El dispositivo fue desarrollado por la Dra.Teresa Bas , el Dr.Pable Ulldemolins e ingenieros técnicos en el Hospital Universitario y Politécnico La Fe de Valencia y el Instituto de Biomecánica de Valencia 
 - Breve descripción funcional :Cor-esc-5 usa sensores no invasivos para realizar seguimiento a través de los datos que el sistema recopila .Esto permite que el médico pueda evaluar de manera más personalizada  la adaptación y el ajuste del corsé para con el paciente.  La función u objetivo de este dispositivo es monitorear en tiempo real la adherencia y el ajuste del corsé mediante sensores de temperatura y presión .
 - Ventajas :Este dispositivo es innovador pues se puede adherir a cualquier tipo de corsé ortopédico lo que lo hace sencillo y práctico en cuanto a la integración .Además ,puede conectarse, mediante bluetooth, a un dispositivo para monitorear  el tiempo de uso  
 - Desventajas : Es un producto relativamente nuevo por lo que presenta ciertas limitaciones como en el rango de la conexión bluetooth que varía entre 10- 15 metros .Por otro lado , el dispositivo requiere recargarse cada cinco días lo que causaría un análisis de datos menos eficaz .
+
+![Cor-esc-25](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/corerc.jpg)
   
 ### Serial Elongation–Derotation–Flexion Casting for Early-Onset Scoliosis
 - Autor, empresa o institución responsable: E.H.Abdelgawad/ Department of Orthopaedic Surgery, University of Texas Medical Branch (UTMB), USA.
@@ -63,4 +68,6 @@ Hickey, B. A., Towriss, C., Baxter, G., Yasso, S., James, S., Jones, A., Howes, 
 El yeso se cambia de forma periódica (cada 2–3 meses) para acompañar el crecimiento del niño y, en algunos casos, lograr una corrección parcial o incluso completa de la deformidad.
 - Ventajas: El método de yesos seriados puede aplicarse desde edades muy tempranas, incluso en niños menores de 2 años, lo que lo convierte en una opción accesible para pacientes muy pequeños. Se trata de un procedimiento no invasivo, ya que no requiere de cirugía mayor, y en muchos casos logra detener la progresión de la escoliosis o incluso corregir de manera parcial la curva. Gracias a ello, puede retrasar o evitar la necesidad de intervenciones quirúrgicas en etapas iniciales. Además, es un tratamiento económico en comparación con dispositivos implantables y, cuando se elaboran corsés personalizados con ayuda de tecnologías CAD/CAM, se consigue un mejor ajuste y mayor comodidad para el niño.
 - Desventajas: A pesar de sus beneficios, este tratamiento requiere anestesia general de forma repetida en cada cambio de yeso, lo que representa un riesgo adicional en pacientes pediátricos. También resulta incómodo para el niño, ya que limita su movilidad, higiene y juego diario, y puede ocasionar problemas cutáneos como irritaciones o úlceras por presión. A nivel institucional, demanda infraestructura adecuada y personal especializado en la técnica. Finalmente, el compromiso de la familia puede ser difícil de mantener debido a los controles frecuentes, lo que afecta la adherencia al tratamiento.
+
+![SEDFCEOS](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/serial.jpg)
 
