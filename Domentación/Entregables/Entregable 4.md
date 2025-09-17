@@ -39,6 +39,8 @@ La decisión de enfocarse en este ámbito del problema es que, un buen y tempran
 - Ventajas: En innovación, representa una revolución al reducir la necesidad de cirugías repetidas bajo anestesia, ya que los ajustes se realizan externamente en consultorio. En cuanto a seguridad, disminuye los riesgos asociados a procedimientos quirúrgicos frecuentes como infecciones, pérdida sanguínea o complicaciones anestésicas. En calidad de vida, el niño y la familia experimentan menos hospitalizaciones y un tratamiento más dinámico y predecible. Además, permite un control progresivo de la corrección.
 - Desventajas: En limitaciones técnicas, existe riesgo de complicaciones mecánicas como fallo del sistema magnético, fractura o desgaste de la varilla, lo que puede requerir cirugía correctiva. En cuanto a costos, es un tratamiento altamente caro y restringido a hospitales especializados, lo que limita su accesibilidad. En candidaturas, no todos los pacientes pueden ser tratados con este sistema, ya que depende del tipo de curva, edad, peso y condiciones anatómicas. Además, se requiere seguimiento estricto y especializado a largo plazo.
 
+Referencia:
+Hickey, B. A., Towriss, C., Baxter, G., Yasso, S., James, S., Jones, A., Howes, J., Davies, P., & Ahuja, S. (2014). Early experience of MAGEC magnetic growing rods in the treatment of early onset scoliosis. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society, 23 Suppl 1(Suppl 1), S61–S65. https://doi.org/10.1007/s00586-013-3163-0
 
 ### ScoliBrace 
 - Autor , Empresa o institución responsable  : ScoliCare 
