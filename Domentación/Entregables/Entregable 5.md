@@ -7,6 +7,8 @@
 <div align="justify">
 
 ## Identificación de la necesidad
+El paciente con escoliosis congénita dorsolumbar moderada, de 1 año y 10 meses, tiene varias necesidades que deben ser atendidas de forma completa. En primer lugar, necesita que se controle y corrija la progresión de la curva a través de un corsé ortopédico. Sin embargo, debido a su corta edad, su irritabilidad y su escasa colaboración, tanto el tomar moldes como el usar el aparato durante mucho tiempo se vuelven difíciles. 
+Además, es necesario que reciba una terapia física apropiada y estimulación psicomotora para optimizar su alineación corporal, fuerza y crecimiento motor, pues las sesiones realizadas hasta el momento fueron restringidas por la resistencia del niño. El apoyo en términos sociales y psicológicos es igualmente crucial; este debe apoyar a la familia en el control de la conducta y en la integración de pautas de tratamiento en la rutina cotidiana. Es posible mejorar estas necesidades mediante el uso de corsés más cómodos y adaptables, por ejemplo dispositivos dinámicos o sensorizados que posibilitan un ajuste de la presión para aumentar la tolerancia. También se puede lograr a través de tecnologías de monitoreo y gamificación que motiven a los cuidadores y al paciente a mantener el tiempo recomendado del corsé. Además, reforzar los programas de estimulación temprana y ofrecer a los padres una capacitación práctica en el hogar favorecerá la cooperación del niño, prevendrá retrasos en su desarrollo y facilitará una mayor adherencia al tratamiento, contribuyendo así a mejorar su calidad de vida.
 
 
 ## Búsqueda de patentes:
