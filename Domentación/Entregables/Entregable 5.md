@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fundamentos de Biodiseño: Entregable Nº 4
+# Fundamentos de Biodiseño: Entregable Nº 5
 
 </div>
 
@@ -9,65 +9,45 @@
 ## Identificación de la necesidad
 El caso de estudio se da en un contexto de circunstancias complejas, donde las dificultades que se presentan para el paciente y su familia son las que terminan exhibiendo los vacíos estructurales y elementales de la medicina tradicional. A partir de ello se han identificado necesidades que, si bien no comprometen de manera vital la vida del paciente, si son relevantes para su calidad de vida, desarrollo integral y un buen funcionamiento del tratamiento dado. Estas carencias, no cubiertas por la medicina de hoy en día, explican el porqué existen casos como este. En ese sentido, se evidencia la urgente tarea de  diseñar soluciones accesibles, eficaces y centradas en el paciente, que respondan y tengan en cuenta no sólo sus limitaciones físicas, sino también sociales, económicas y personales. Por ello, este trabajo se orienta en el desarrollo de una opción ortopédica, correctiva y continua que vaya de la mano de una mayor comodidad, tolerancia y adaptabilidad para el paciente.
 
-Por lo mismo, con el caso sabemos que la escoliosis congénita, causada por malformaciones vertebrales como hemivértebras (T7, T9) y vértebras en mariposa (T8), presenta un alto riesgo de progresión durante el crecimiento (McMaster, 2019). En el caso de Araoz, la curva dorsal izquierda tiene un ángulo de Cobb de 33.8°, y la lumbar derecha de 25°, lo que se considera moderado pero con potencial de empeoramiento debido a la edad del paciente y su inmadurez esquelética (Risser 0-) (Weinstein et al., 2013). Con las consideraciones anteriores esta necesidad es de gran valor, pues tiene una curvatura <50°, sumada a la corta edad del paciente, nuestro método irá a los correctores posturales (corsets) y las sesiones fisioterapéuticas constantes, para evitar cualquier tipo de intervención quirúrgica.
-
-La decisión de enfocarse en este ámbito del problema es que, un buen y temprano tratamiento ortopédico es fundamental para evitar daño óseo y muscular a largo plazo (Theimer, 2016), lo cual no se puede cumplir si el paciente no usa el corsé de manera constante debido a la incomodidad que este le produce. De esta manera, la problemática no se limita únicamente a diseñar un dispositivo capaz de corregir la curvatura, sino también a garantizar su uso en la vida diaria del paciente. Es decir, se debe buscar la adaptabilidad del dispositivo en la vida del paciente, ya que la responsabilidad médica no concluye en el momento en que el paciente abandona el centro de salud, y, sin embargo, la medicina tradicional aún no aborda de manera integral estos casos. A ello se suma la sobrecarga que enfrentan las familias, que deben lidiar con la falta de colaboración del infante y con los costos derivados de rehacer moldes de yeso cada 3 a 6 meses. Finalmente, al abordar el caso desde distintos frentes se llega a dos objetivos: el desarrollo de un dispositivo más cómodo y adaptable, y el acompañamiento a partir de opciones de monitoreo, los cuales no solo favorecerá el uso continuo, sino también reducirán y asegurará una mayor eficacia en el tratamiento. 
-
-## Selección de tecnologías 
-### Boston Brace Baby
-- Autor, empresa o institución responsable: Boston Orthotics & Prosthetics (Boston O&P)
-- Breve descripción funcional: Es un corsé toraco-lumbo-sacro (TLSO) que se diseñó para  bebés y niños pequeños que padecen de escoliosis congénita o infantil. Su fabricación es de material rígido termoformado y es personalizable mediante el proceso de molde o escaneo del torso. El objetivo del corsé Boston es controlar la progresión de la curva dando presiones correctivas a la columna en desarrollo.
-- Ventajas: En cuanto a innovación, se trata de uno de los escasos corset toraco-lumbo-sacros creados con el objetivo específico de ser usados por bebés y niños pequeños, cuya adaptación anatómica se logra a través del escaneo tridimensional o el moldeado en yeso. Contribuye a detener la progresión de la escoliosis congénita en los primeros periodos de crecimiento. Proporciona una estabilidad postural que propicia el desarrollo psicomotor y evita problemas futuros. En lo que se refiere a la facilidad de uso, tiene cierres de velcro que permiten a los padres ponerlo y sacarlo con bastante facilidad; solo necesita un mantenimiento básico y revisiones regulares con el ortesista.
-- Desventajas: En limitaciones técnicas, su estructura rígida y voluminosa podría ser incómoda para los niños pequeños, produciendo irritación, intolerancia baja y en ocasiones lesiones cutáneas si no se maneja apropiadamente. Respecto a los costos, su precio es alto y se incrementa todavía más dado que el rápido crecimiento de los niños requiere cambiar el corsé cada pocos meses, lo cual supone un gran gasto para las familias. En cuanto al mantenimiento, a pesar de que no necesita cuidados tecnológicos sofisticados, sí requiere que el ortesista lo revise con frecuencia para modificar la presión, rectificar desalineaciones e intercambiar los forros. Esto significa un gasto y un tiempo extra.
-![Boston Brace Baby](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/BabyBoston.jpg)
-
-### ThermoBrace
-- Autor, empresa o institución responsable: Instituto Italiano de la Columna (ISICO)
-- Breve descripción funcional: Thermobrace es un dispositivo electrónico que tiene la forma de un pequeño sensor de temperatura; se sitúa dentro de cualquier corsé y registra automáticamente la temperatura del cuerpo del paciente. Su objetivo es establecer con exactitud las horas reales de utilización del corsé, brindando a padres y médicos datos objetivos sobre la adherencia al tratamiento.
-- Ventajas: Con respecto a la innovación, agrega un valor adicional al transformar un corsé convencional en uno "inteligente", porque implementa el monitoreo objetivo del desempeño. En cuanto a los beneficios para el usuario, mejora la comunicación entre médicos y familiares, ya que los datos hacen posible relacionar el desarrollo de la escoliosis con las horas efectivas de uso. Además, el sensor es pequeño y discreto, por lo que no interfiere con la rutina del paciente. Se incorpora al corsé sin cambiar su estructura, lo que permite un uso sencillo.
-- Desventaja: En limitaciones técnicas,únicamente mide la temperatura, no proporciona información sobre la calidad del ajuste ni sobre qué tan eficaz es el corsé mecánicamente. Además, si no se coloca de manera adecuada, puede registrar datos incorrectos. En cuanto a los costos, supone un desembolso extra al corsé convencional, lo cual podría ser un obstáculo para las familias con menos recursos. En cuanto al mantenimiento, es necesario recargar o sustituir la batería y descargar los datos de forma regular, lo que supone una tarea adicional para el tratamiento. Por último, en relación con los obstáculos para la adopción, no está disponible en todos los centros ortopédicos y ciertos padres pueden oponerse a utilizar dispositivos electrónicos para niños pequeños debido a la falta de familiaridad o a sus preocupaciones sobre el manejo de datos.
-  
-![THERMOBRACE](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/thermobrace.jpg)
-
-### Turtlebrace TLSO
-- Autor, empresa o institución responsable: Turtlebrace Inc., Québec, Canadá.
-- Breve descripción funcional: El Turtlebrace TLSO es un corsé diseñado para ayudar a pacientes con problemas de columna como la escoliosis, el dolor lumbar y otros problemas de postura. Lo que lo hace único es que está fabricado con un material plástico ligero y ventilado, de aproximadamente 3,2 mm de grosor, que además es transparente a los rayos X y evita el crecimiento de bacterias. Su principal ventaja es que puede ser remoldeado con calor, ya sea con aire caliente o agua, lo que permite que el ortesista lo ajuste a la forma del cuerpo del paciente de manera más precisa y personalizada.
-- Ventajas: Una de sus mayores ventajas es que, a diferencia de los corsés rígidos tradicionales que solo sirven una vez, el Turtlebrace TLSO es reutilizable y se puede ajustar varias veces. Esto significa que si el paciente crece o su condición cambia, se puede moldear de nuevo en lugar de fabricar uno nuevo. La transparencia a los rayos X es otra gran ventaja, ya que facilita los controles médicos sin tener que quitarse el corsé. Además, su material ligero, perforado y antibacteriano lo hace más cómodo y transpirable, reduciendo la sudoración y la irritación de la piel.
-- Desventajas: Tiene algunas limitaciones. A pesar de que es más cómodo que otros corsés, sigue siendo un dispositivo de uso prolongado que puede resultar incómodo si no se ajusta a la perfección. Su efectividad depende mucho de la experiencia y habilidad de la persona que lo moldea. Además, su costo es elevado debido a la tecnología y los materiales especiales, lo que lo hace menos accesible para algunos.
+## Búsqueda de patentes:
+### Patente N°1:
+- Número de patente / Publicación: US20240139017A1.
+- Título: Scoliosis brace with inflatable pressure bladders and scoliosis treatment methods using the same.
+- Inventores: D. Barry McCoy.
+- Año de publicación: 2024
+- Entidad solicitante: Individual
+- Resumen funcional:Describe un corsé para escoliosis con vejigas inflables integradas, bomba de aire, sensor de presión, microcontrolador y transceptor inalámbrico (Bluetooth/Wi-Fi). Un dispositivo externo (celular/tablet) y, opcionalmente, un servidor remoto registran y analizan el uso, presión en tiempo real y cumplimiento para personalizar la terapia y promover el uso constante y la adaptabilidad.
+- Aspectos innovadores: Tiene electrónica integrada (procesador, memoria, batería recargable, sensor de presión) con control de inflado/deflación en lazo cerrado. Por otro lado también posee unas vejigas intercambiables con formas/posiciones específicas (torácica/lumbar) que crecen con el paciente (adolescentes). Además de una presión cíclica programable y tolerable para mejorar adherencia, para la cual se calcula un bracing score con base en el tiempo de uso efectivo
+- Límites o vacíos: No enfatiza un módulo de sensores universal y reutilizable para múltiples corsés comerciales, ya que la integración se plantea dentro del mismo corsé. Además, requiere bomba, batería y electrónica, lo cual aumenta ciertos costos y mantenimiento.
+- Relación con la necesidad: Cumple con el objetivo de una mejor adaptabilidad y uso constante, debido al control de presión cíclica, la app y el score de cumplimiento buscan mejorar la comodidad y el uso sostenido del corsé, alineado con tu objetivo de que el niño lo use más tiempo.
+- Bibliografía: https://patents.google.com/patent/US20240139017A1/en
+- Imágenes asociadas:
 
 
-### MAGEC System
-- Autor, empresa o institución responsable: Desarrollado por Ellipse Technologies (EE.UU.), actualmente comercializado por NuVasive, Inc.
-- Breve descripción funcional: Se trata de un sistema de varillas de crecimiento implantables para niños con escoliosis de inicio temprano. Estas varillas se fijan a la columna mediante cirugía y luego se pueden alargar de manera no invasiva usando un control magnético externo, evitando múltiples operaciones abiertas. Su función principal es corregir progresivamente la curvatura de la columna mientras se permite el crecimiento natural del niño.
-- Ventajas: En innovación, representa una revolución al reducir la necesidad de cirugías repetidas bajo anestesia, ya que los ajustes se realizan externamente en consultorio. En cuanto a seguridad, disminuye los riesgos asociados a procedimientos quirúrgicos frecuentes como infecciones, pérdida sanguínea o complicaciones anestésicas. En calidad de vida, el niño y la familia experimentan menos hospitalizaciones y un tratamiento más dinámico y predecible. Además, permite un control progresivo de la corrección.
-- Desventajas: En limitaciones técnicas, existe riesgo de complicaciones mecánicas como fallo del sistema magnético, fractura o desgaste de la varilla, lo que puede requerir cirugía correctiva. En cuanto a costos, es un tratamiento altamente caro y restringido a hospitales especializados, lo que limita su accesibilidad. En candidaturas, no todos los pacientes pueden ser tratados con este sistema, ya que depende del tipo de curva, edad, peso y condiciones anatómicas. Además, se requiere seguimiento estricto y especializado a largo plazo.
-  
-Referencia:
-Hickey, B. A., Towriss, C., Baxter, G., Yasso, S., James, S., Jones, A., Howes, J., Davies, P., & Ahuja, S. (2014). Early experience of MAGEC magnetic growing rods in the treatment of early onset scoliosis. European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society, 23 Suppl 1(Suppl 1), S61–S65. https://doi.org/10.1007/s00586-013-3163-0
+### Patente N°2:
+- Número de patente/Publicación :WO2023126559A1
+- Título:Dispositivo ortésico de compresión dinámica sensorizado y método de ajuste del mismo
+- Inventores: Carlos Gutiérrez San Román ,Ignacio Bermejo Bosch ,José María Baydal Bertomeu, José Montero Vilela,Juan José Ródenas García, Enrique Nadal Soriano.
+- Año de publicación:2023
+- Entidad solicitante:Fundación para la investigación del hospital universidad y politécnico la fe de la comunidad valenciana, Instituto de biomecánica de Valencia , Universitat Politécnica de Valencia .
+- Resumen funcional:El corsé contiene bandas elásticas correctivas que ,situados de forma específica a lo largo de la curvatura  , sirven para generar presión. También posee bandas lumbares que son regulables la cual sirve como adaptador de presión .
+- Aspectos innovadores: Es una ortesis que a diferencia de los corsés convencionales no es rígido lo que lo hace más cómodo para el paciente .Además , es regulable y discreto .
+- Límites o vacíos:Las limitaciones que se presentan son en cuanto a la durabilidad y que solo tiene efecto en escoliosis de grado leve.
+- Relación con la necesidad: Este  dispositivo va en relación con la necesidad que está enfocada hacía el paciente ya que el niño presenta problemas en cuanto a la adherencia del uso del corsé debido a su rigidez .
+- Imágenes asociadas:
 
-### ScoliBrace 
-- Autor , Empresa o institución responsable  : ScoliCare 
-- Breve descripción funcional : Scolibrace es un corsé personalizado en niños y adolescentes que utiliza tecnología 3D con material de copolímero de polipropileno .A diferencia de los corsés tradicionales , el ScoliBrace realiza presión en zonas específicas de la columna vertebral (de acuerdo a lo que el paciente requiere )lo que provoca el movimiento opuesto respecto a la curvatura de la columna  y ayuda a su disminución .Además , ofrece más comodidad que otros corsés ortopédicos tradicionales . 
-- Ventajas : El corsé ScoliBrace es considerado moderno e innovador puesto que se adapta las necesidades del paciente .Se ajusta al cuerpo lo que disminuye la incomodidad y el dolor .El impacto más notable que presenta para los usuarios es la ligereza y practicidad .
-- Desventajas:Las limitaciones técnicas que presentan son similares a un corsé convencional a pesar de que sean personalizados pues aún puede causar incomodidad ,calor e incluso dificultad para realizar respiraciones profundas  . La progresión de las correcciones de la columna dependen de la edad del paciente , su flexibilidad , el tipo de curva que presenta y los factores etiológicos . El producto es poco accesible .
+### Patente N°3:
+- Número de patente/Publicación: ES 1 305 057 U
+- Título: Dispositivo ortósico de compresión dinámica sensorizado
+- Inventores: Gutiérrez San Román, Carlos; Bermejo Bosch, Ignacio; Baydal Bertomeu, José María; Montero Vilela, José; Ródenas García, Juan José; Nadal Soriano, Enrique
+- Año de publicación: 2024
+- Entidad solicitante: Fundación para la Investigación del Hospital Universitario y Politécnico La Fe de la Comunidad Valenciana (70%), Asociación Instituto de Biomecánica de Valencia (20%), Universitat Politècnica de Valencia (10%)
+- Resumen funcional: El dispositivo es un sistema ortopédico de compresión dinámica sensorizado, diseñado para aplicar una carga terapéutica ajustable sobre el cuerpo del paciente (por ejemplo, en el tórax para corregir pectus carinatum). Incluye sensores de carga extensométricos que monitorizan continuamente la presión ejercida, elementos flexibles calibrados que permiten movimientos naturales (como la respiración), y un sistema de comunicación que envía los datos a un especialista o a una aplicación móvil. El paciente o el médico puede ajustar la carga de forma manual o remota en función de las mediciones, optimizando así el tratamiento y mejorando la adherencia.
+- Aspectos innovadores:
+- Límites o vacíos:
+No se especifica el tipo de batería o autonomía energética del sistema sensorizado.
+No se detalla el algoritmo de procesamiento de datos ni el criterio clínico automático para ajustar la carga.
+Relación con la necesidad:
 
-![Scolibrace](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/scolibrace.jpg)
-
-
-### Cor-esc-25
-- Autor ,empresa o institución responsable : El dispositivo fue desarrollado por la Dra.Teresa Bas , el Dr.Pable Ulldemolins e ingenieros técnicos en el Hospital Universitario y Politécnico La Fe de Valencia y el Instituto de Biomecánica de Valencia 
-- Breve descripción funcional :Cor-esc-5 usa sensores no invasivos para realizar seguimiento a través de los datos que el sistema recopila .Esto permite que el médico pueda evaluar de manera más personalizada  la adaptación y el ajuste del corsé para con el paciente.  La función u objetivo de este dispositivo es monitorear en tiempo real la adherencia y el ajuste del corsé mediante sensores de temperatura y presión .
-- Ventajas :Este dispositivo es innovador pues se puede adherir a cualquier tipo de corsé ortopédico lo que lo hace sencillo y práctico en cuanto a la integración .Además ,puede conectarse, mediante bluetooth, a un dispositivo para monitorear  el tiempo de uso  
-- Desventajas : Es un producto relativamente nuevo por lo que presenta ciertas limitaciones como en el rango de la conexión bluetooth que varía entre 10- 15 metros .Por otro lado , el dispositivo requiere recargarse cada cinco días lo que causaría un análisis de datos menos eficaz .
-
-![Cor-esc-25](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/corerc.jpg)
-  
-### Serial Elongation–Derotation–Flexion Casting for Early-Onset Scoliosis
-- Autor, empresa o institución responsable: E.H.Abdelgawad/ Department of Orthopaedic Surgery, University of Texas Medical Branch (UTMB), USA.
-- Breve descripción funcional:Consiste en aplicar yesos correctivos bajo anestesia, en los que se ejercen fuerzas de elongación, derotación y flexión para controlar la progresión de la escoliosis de inicio temprano. La ingeniería biomédica ha permitido el desarrollo de corsés y ortesis personalizados mediante la tecnología CAD/CAM, se escanea el tronco del paciente y se modela digitalmente el corsé  luego se fabrica con precisión, adaptado a la anatomía del niño, mejorando la adaptación y la eficacia del tratamiento conservador.
-El yeso se cambia de forma periódica (cada 2–3 meses) para acompañar el crecimiento del niño y, en algunos casos, lograr una corrección parcial o incluso completa de la deformidad.
-- Ventajas: El método de yesos seriados puede aplicarse desde edades muy tempranas, incluso en niños menores de 2 años, lo que lo convierte en una opción accesible para pacientes muy pequeños. Se trata de un procedimiento no invasivo, ya que no requiere de cirugía mayor, y en muchos casos logra detener la progresión de la escoliosis o incluso corregir de manera parcial la curva. Gracias a ello, puede retrasar o evitar la necesidad de intervenciones quirúrgicas en etapas iniciales. Además, es un tratamiento económico en comparación con dispositivos implantables y, cuando se elaboran corsés personalizados con ayuda de tecnologías CAD/CAM, se consigue un mejor ajuste y mayor comodidad para el niño.
-- Desventajas: A pesar de sus beneficios, este tratamiento requiere anestesia general de forma repetida en cada cambio de yeso, lo que representa un riesgo adicional en pacientes pediátricos. También resulta incómodo para el niño, ya que limita su movilidad, higiene y juego diario, y puede ocasionar problemas cutáneos como irritaciones o úlceras por presión. A nivel institucional, demanda infraestructura adecuada y personal especializado en la técnica. Finalmente, el compromiso de la familia puede ser difícil de mantener debido a los controles frecuentes, lo que afecta la adherencia al tratamiento.
-
-![SEDFCEOS](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregrable%204/serial.jpg)
+- Imágenes asociadas:
 
