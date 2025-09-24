@@ -25,7 +25,7 @@ Además, es necesario que reciba una terapia física apropiada y estimulación p
 - **Bibliografía:** https://patents.google.com/patent/US20240139017A1/en
 - **Imágenes asociadas:**
 
-
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%205/img%20patente1.jpg" width="400">
 
 ### Patente N°2:
 - **Número de patente/Publicación:** WO2023126559A1
@@ -39,6 +39,7 @@ Además, es necesario que reciba una terapia física apropiada y estimulación p
 Relación con la necesidad: Este  dispositivo va en relación con la necesidad que está enfocada hacía el paciente ya que el niño presenta problemas en cuanto a la adherencia del uso del corsé debido a su rigidez .
 - **Imágenes asociadas:**
 
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%205/img%20patente2.jpg" width="400">
 
 ### Patente N°3:
 - **Número de patente/Publicación:** ES 1 305 057 U
@@ -58,6 +59,8 @@ No se detalla el algoritmo de procesamiento de datos ni el criterio clínico aut
 El dispositivo es una respuesta especialmente en la adherencia al tratamiento ortopédico en las condiciones de escoliosis, donde hay incomodidad y se necesita un ajusto continuo.
 - **Imágenes asociadas:**
 
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%205/img%20patente3.jpg" width="400">
+
 ### Patente N°4
 - **Número de patente/Publicación:** US020240277376A120240822
 - **Título:** System for informational magnetic feedback in adjustable implants
@@ -69,6 +72,8 @@ El dispositivo es una respuesta especialmente en la adherencia al tratamiento or
 - **Límites o vacíos:** En muchos escenarios reales, hay factores fisiológicos (tejidos blandos, desplazamientos, relajación) que afectan que la medición magnética sea exacta.
 - **Relación con la necesidad:** Aporta un componente de “medición /retroalimentación” que puede fortalecer el control del tratamiento: si sabes cuánta fuerza está ejerciendo el implante, puedes ajustar mejor y monitorear la evolución. En cuanto a flexibilidad, un implante que es ajustable con retroalimentación puede permitir ajustes finos que respeten el movimiento fisiológico.- Puedes plantear integrar mecanismos adicionales que incentiven adherencia: sensores de uso (tiempo de uso, temperatura, presión), alarmas o alertas si no se usa, diseño ergonómico, materiales ligeros.
 - **Imágenes asociadas:**
+
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%205/img%20patente4.jpg" width="400">
 
 ### Patente N°5
 - **Número de patente/Publicación :** US 2022/0226140 A1
@@ -85,3 +90,5 @@ Esto convierte la terapia en algo más entretenido y motivador.
 La gamificación mostrada es básica (ejemplo: un juego de hormiguero), lo cual podría requerir más desarrollo para ser atractivo a largo plazo.
 - **Relación con la necesidad:** Este dispositivo está relacionado con la necesidad, puesto que, soluciona el tema de adherencia con la implementación de entretenimiento en el corsé.
 - **Imágenes asociadas:**
+
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%205/img%20patente5.jpg" width="400">
