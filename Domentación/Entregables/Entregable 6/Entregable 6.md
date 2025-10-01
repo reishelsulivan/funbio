@@ -80,3 +80,39 @@ Por otra parte, con respecto a los recursos que se cuentan y que es posible la c
 -Asesoría de docentes, que complementan la formación técnica.
 
 ## 6. Planificación inicial
+### a. Cronograma preliminar
+| Fases                     | Descripción                                                                                                                                                                                                 |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diseño conceptual          | Seleccionar las zonas donde se colocarán los sensores: FSR (costillas, abdomen, crestas ilíacas) y de temperatura. A partir de ello realizar los bocetos del liner teniendo en cuenta la electrónica desmontable. También ver materiales flexibles y lavables para la banda. |
+| Adquisición de insumos     | Comprar cada componente y muestras textiles para realizar la banda.                                                                                                                                         |
+| Programación básica        | Desarrollar el código para la lectura de FSR y temperatura, aplicar filtros de señal (media móvil) y establecer umbrales simples para definir cuando se está usando o no (conectar con una base de datos que dé la temperatura de la zona) y “presión excesiva”. Probarlo en una superficie controlada para validar funcionamiento básico. |
+| Construcción del prototipo | Confeccionar el forro acolchado con bolsillos para ubicar los sensores, integrar los conectores desmontables y preparar una carcasa básica para la parte electrónica.                                         |
+| Pruebas técnicas en maqueta | Evaluar el funcionamiento del prototipo colocándolo en un maniquí o superficie controlada. Validar la sensibilidad de los sensores, calibrar los umbrales de presión y humedad y comprobar la estabilidad de las lecturas en condiciones simuladas de uso. |
+| Iteración de diseño        | Ajustar la ubicación de los sensores de acuerdo con los resultados iniciales, reforzar costuras del liner, mejorar la estabilidad de las señales y optimizar la disposición de la electrónica desmontable.  |
+| Análisis y entrega         | Registrar las gráficas obtenidas (uso horario, presión excesiva, temperatura relativa), documentar el proceso de construcción y presentar el prototipo con las conclusiones y propuestas de mejora.           |
+
+### b. Presupuesto estimado
+
+| Tipo de componente           | Detalle                                                                                                                                             |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4–6 sensores FSR              | Los más comunes (FSR 402, Interlink) cuestan entre S/ 45–60 cada uno en distribuidores locales. Si se usan 4 unidades el total quedaría en S/ 180–240. |
+| 1 sensor de temperatura       | Digital I2C como MCP9808, TMP117 o LM35 clásico → S/ 25–45.                                                                                         |
+| Microcontrolador              | Arduino Nano/Uno ~S/ 95 (precio local). Un ESP32 podría estar entre S/ 110–130.                                                                    |
+| Batería + cargador + conectores | Li-Po pequeña 500–1000 mAh + cargador TP4056 → S/ 90–120.                                                                                           |
+| Textiles médicos y espumas    | Malla transpirable, espuma médica hipoalergénica → S/ 150.                                                                                          |
+| Materiales de prototipado     | Hilo, velcros, bolsillos, impresión 3D básica → S/ 100.                                                                                             |
+
+**Total estimado:** S/ 640–750
+
+### c.Riesgos y mitigación
+
+#### Técnicos
+- Lecturas inestables de FSR → mitigación: usar varios sensores y promediar.
+- Falsos positivos si el corsé se apoya sobre objetos → mitigación: colocar sensores en zonas clave + combinar con humedad.
+- Deriva en humedad en climas extremos → mitigación: usarla solo como criterio adicional, no único.
+#### Económicos
+- Aumento del costo de textiles médicos → mitigación: prototipar con textiles locales, validar y luego migrar a médicos.
+- Daño de sensores en lavado → mitigación: electrónica desmontable (pods).
+#### Organizativos
+- Poca disponibilidad de voluntarios → empezar con pruebas en maquetas/adultos sanos.
+- Tiempo limitado de curso → priorizar MVP: uso/no uso + presión excesiva (lo básico para validación académica).
