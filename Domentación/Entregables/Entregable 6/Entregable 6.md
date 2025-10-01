@@ -42,7 +42,7 @@ costosas.
 
 
 
-## Stakeholders
+## 4. Stakeholders
 
 Son todas las personas o entidades interesadas en el proyecto:
 
