@@ -47,16 +47,16 @@ costosas.
 Son todas las personas o entidades interesadas en el proyecto:
 
 - Usuarios finales (quién usará el sistema).
- - Niños de 1 - 3 años con escoliosis congénita o de inicio temprano, que en principio requieran el uso de corsé como tratamiento conservador.
- - En este caso en particular, niños como Yeferson (1 año y 10 meses) con corsets incómodos, irritables y poco tolerables.
+  - Niños de 1 - 3 años con escoliosis congénita o de inicio temprano, que en principio requieran el uso de corsé como tratamiento conservador.
+  - En este caso en particular, niños como Yeferson (1 año y 10 meses) con corsets incómodos, irritables y poco tolerables.
 - Clientes (quién lo compra o financia).
- - Hospitales y clínicas (públicas y privadas) que atienden a niños con escoliosis, como el Instituto Nacional de Rehabilitación (INR) en Perú y el Instituto Nacional de Salud del Niño (INSN). 
- - Padres de familia que buscan un tratamiento efectivo y cómodo para sus hijos que tengan problemas de escoliosis con un grado tolerable de curvatura, y tengan la posibilidad de invertir en un accesorio que permita al corsé tener más funciones.
+  - Hospitales y clínicas (públicas y privadas) que atienden a niños con escoliosis, como el Instituto Nacional de Rehabilitación (INR) en Perú y el Instituto Nacional de Salud del Niño (INSN). 
+  - Padres de familia que buscan un tratamiento efectivo y cómodo para sus hijos que tengan problemas de escoliosis con un grado tolerable de curvatura, y tengan la posibilidad de invertir en un accesorio que permita al corsé tener más funciones.
 - Partes interesadas clave: médicos, reguladores, fabricantes, aseguradoras, familiares, etc.
- - Médicos: Ortopedistas, fisiatras, neurocirujanos y terapeutas físicos que supervisen el tratamiento. Se necesita su opinión para ver las complicaciones y progresión en los procesos médicos.
- - Fabricantes: Talleres de ortesis que puedan fabricar el corsé. Incorporar la tecnología de sensores y el acolchado para cambiar los procesos tradicionales. Además de ver su experiencia en el modelamiento del cuerpo del niño en esas edades.
- - Familiares: Padres o apoderados que puedan supervisar el uso del corsé y sean capacitados para su uso, además de que pueda financiar el producto para adaptarlo al niño.
+  - Médicos: Ortopedistas, fisiatras, neurocirujanos y terapeutas físicos que supervisen el tratamiento. Se necesita su opinión para ver las complicaciones y progresión en los procesos médicos.
+  - Fabricantes: Talleres de ortesis que puedan fabricar el corsé. Incorporar la tecnología de sensores y el acolchado para cambiar los procesos tradicionales. Además de ver su experiencia en el modelamiento del cuerpo del niño en esas edades.
+  - Familiares: Padres o apoderados que puedan supervisar el uso del corsé y sean capacitados para su uso, además de que pueda financiar el producto para adaptarlo al niño.
 
 - Identificarlos ayuda a entender requisitos y restricciones.
- - Requisitos: Comodidad, efectividad, seguridad, monitoreo de la presión, adaptabilidad al crecimiento, transpirable y bajo costo.
+  - Requisitos: Comodidad, efectividad, seguridad, monitoreo de la presión, adaptabilidad al crecimiento, transpirable y bajo costo.
 
