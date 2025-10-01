@@ -29,16 +29,16 @@ Ofrecer una base para progresos futuros, de forma que el proyecto tenga la capac
 - Permitir un seguimiento más óptimo en el que se podrán visualizar los datos mediante aplicaciones y comunicación inalámbrica.
 
 ### Beneficios para la empresa
-	- Se reduce el costo de mantenimiento y monitoreo debido a los materiales empleados
+- Se reduce el costo de mantenimiento y monitoreo debido a los materiales empleados
 - Permite que el dispositivo sea más accesible y brindar a los usuarios un buen  
  producto sin necesidad de intercambiar el corsé que ya se está utilizando .
 - Se presenta como un dispositivo innovador en comparación a ortesis tradicionales puesto que prioriza la comodidad de los usuarios sin comprometer la efectividad del tratamiento .
 
 ### Beneficios para la sociedad
-	-Poder hacer uso de cualquier tipo de corsé sin tener que recurrir a ortesis demasiado
+- Poder hacer uso de cualquier tipo de corsé sin tener que recurrir a ortesis demasiado
 costosas.
--Contribuiría a la efectividad del tratamiento , y que además ,al ser utilizado exitosamente, podría evitar futuros procedimiento quirúrgicos en un grado de escoliosis leve .
--Los datos anónimos que se recopilen podrían ayudar a investigaciones sobre la escoliosis y brindar un sistema de retroalimentación mejorado.
+- Contribuiría a la efectividad del tratamiento , y que además ,al ser utilizado exitosamente, podría evitar futuros procedimiento quirúrgicos en un grado de escoliosis leve .
+- Los datos anónimos que se recopilen podrían ayudar a investigaciones sobre la escoliosis y brindar un sistema de retroalimentación mejorado.
 
 
 
