@@ -61,7 +61,7 @@ Son todas las personas o entidades interesadas en el proyecto:
   - Requisitos: Comodidad, efectividad, seguridad, monitoreo de la presión, adaptabilidad al crecimiento, transpirable y bajo costo.
 
 ## 5.  Competencias y equipo 
-	El equipo cuenta con el siguiente conocimiento que adquirió y adquirirá a lo largo del curso:
+El equipo cuenta con el siguiente conocimiento que adquirió y adquirirá a lo largo del curso:
 - Electrónica básica y prototipado con Arduino, lo que permitirá la implementación de sensores biomédicos y circuitos básicos.
 - Manejo de sensores, indispensable para el monitoreo de la curva de la columna, además de analizar la comodidad con sensores de temperatura y de humedad.
 - Modelado 3D y fabricación digital, facilitará el diseño de carcasas para toda la parte electrónica y previsualizar el resultado final.
