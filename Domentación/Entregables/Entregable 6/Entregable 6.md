@@ -24,15 +24,15 @@ Ofrecer una base para progresos futuros, de forma que el proyecto tenga la capac
 
 ## 3. Valor añadido 
 ### Beneficios para el usuario 
--Proporcionar comodidad al momento de usar el corsé baby Boston debido a los  materiales hipoalergénicos y transpirables que son acolchados para reducir la irritación  .Sumado a ello, brinda practicidad al colocar y retirar los sensores al accesorio ya que permite que se pueda lavar sin afectar la funcionalidad de los componentes. 
--Monitorear la adherencia del paciente a través de los sensores que se le colocarán de manera estratégica y permitirán visualizar si la banda es colocada o no.
--Permitir un seguimiento más óptimo en el que se podrán visualizar los datos mediante aplicaciones y comunicación inalámbrica.
+- Proporcionar comodidad al momento de usar el corsé baby Boston debido a los  materiales hipoalergénicos y transpirables que son acolchados para reducir la irritación  .Sumado a ello, brinda practicidad al colocar y retirar los sensores al accesorio ya que permite que se pueda lavar sin afectar la funcionalidad de los componentes. 
+- Monitorear la adherencia del paciente a través de los sensores que se le colocarán de manera estratégica y permitirán visualizar si la banda es colocada o no.
+- Permitir un seguimiento más óptimo en el que se podrán visualizar los datos mediante aplicaciones y comunicación inalámbrica.
 
 ### Beneficios para la empresa
-	-Se reduce el costo de mantenimiento y monitoreo debido a los materiales empleados
--Permite que el dispositivo sea más accesible y brindar a los usuarios un buen  
+	- Se reduce el costo de mantenimiento y monitoreo debido a los materiales empleados
+- Permite que el dispositivo sea más accesible y brindar a los usuarios un buen  
  producto sin necesidad de intercambiar el corsé que ya se está utilizando .
--Se presenta como un dispositivo innovador en comparación a ortesis tradicionales puesto que prioriza la comodidad de los usuarios sin comprometer la efectividad del tratamiento .
+- Se presenta como un dispositivo innovador en comparación a ortesis tradicionales puesto que prioriza la comodidad de los usuarios sin comprometer la efectividad del tratamiento .
 
 ### Beneficios para la sociedad
 	-Poder hacer uso de cualquier tipo de corsé sin tener que recurrir a ortesis demasiado
