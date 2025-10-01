@@ -124,7 +124,7 @@ Por otra parte, con respecto a los recursos que se cuentan y que es posible la c
 - 
 
 
-# Requisitos Funcionales y No Funcionales – Liner Inteligente para Corsé Boston
+# Requisitos Funcionales y No Funcionales – Liner
 
 | Categoría principal   | Campo                        | Requisito Funcional y/o No Funcional                                                                                                                                                                                                                                                                                   | Clasificación |
 |-----------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
