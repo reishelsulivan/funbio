@@ -104,7 +104,7 @@ Por otra parte, con respecto a los recursos que se cuentan y que es posible la c
 
 **Total estimado:** S/ 640–750
 
-### c.Riesgos y mitigación
+### c. Riesgos y mitigación
 
 #### Técnicos
 - Lecturas inestables de FSR → mitigación: usar varios sensores y promediar.
