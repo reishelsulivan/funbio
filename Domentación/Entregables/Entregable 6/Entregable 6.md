@@ -5,6 +5,11 @@
 </div>
 
 <div align="justify">
+ 
+## 1. Situación inicial:	
+En la asistencia médica hacia las deformidades de la columna, como la escoliosis, los corsés ortopédicos son una de las intervenciones más indicadas desde una edad temprana. No obstante, en el caso de niños menores de dos años, la adherencia a la terapia presenta desafíos mayores: la piel es más frágil y sensible, el crecimiento del cuerpo es acelerado y el niño no puede comunicar con claridad el dolor o la incomodidad que experimenta. Esto conlleva a que los padres reduzcan el tiempo de uso o quiten el dispositivo con mayor frecuencia, lo que impacta en la efectividad del tratamiento.
+La literatura médica indica que una de las causas principales de la baja adherencia al uso de corsés es la incomodidad provocada por puntos de presión excesivos, el calor y la rigidez del material, lo que en etapas tan tempranas se manifiesta en irritaciones en la piel, llanto constante y resistencia al uso prolongado. Asimismo, los diseños comerciales actuales se enfocan en la corrección biomecánica, pero no ofrecen soluciones que combinan confort y un monitoreo objetivo de la presión en áreas críticas.
+En este contexto, surge la necesidad de crear un sistema de acolchado interno que, junto con sensores de presión ubicados estratégicamente, facilite la identificación y prevención de la sobrepresión en zonas vulnerables, además de mejorar la comodidad del niño con el dispositivo y, a la vez, registrar el tiempo real de uso y proporcionar retroalimentación. Esta innovación pretende no solo aumentar la adherencia al tratamiento, sino también proporcionar a los profesionales de la salud y a los padres datos información objetiva que les permitan tomar decisiones más seguras en el ajuste y monitoreo del corsé.
 
 ## 2. Objetivos estratégicos
 ### Metas técnicas
