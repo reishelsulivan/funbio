@@ -60,3 +60,23 @@ Son todas las personas o entidades interesadas en el proyecto:
 - Identificarlos ayuda a entender requisitos y restricciones.
   - Requisitos: Comodidad, efectividad, seguridad, monitoreo de la presión, adaptabilidad al crecimiento, transpirable y bajo costo.
 
+## 5.  Competencias y equipo 
+	El equipo cuenta con el siguiente conocimiento que adquirió y adquirirá a lo largo del curso:
+- Electrónica básica y prototipado con Arduino, lo que permitirá la implementación de sensores biomédicos y circuitos básicos.
+- Manejo de sensores, indispensable para el monitoreo de la curva de la columna, además de analizar la comodidad con sensores de temperatura y de humedad.
+- Modelado 3D y fabricación digital, facilitará el diseño de carcasas para toda la parte electrónica y previsualizar el resultado final.
+- Desarrollo de conectividad básica mediante aplicaciones y comunicación inalámbrica, lo que permite la transmisión y visualización de datos.
+- Metodología de diseño (VDI 2221/2206), que estructura el proceso desde la identificación del problema hasta la comunicación de resultados.
+Por otra parte, con respecto a los recursos que se cuentan y que es posible la compra de ellos:
+- Laboratorios y talleres de electrónica, sensores y fabricación digital (impresión 3D, corte láser).
+- Software especializado para diseño esquemático, simulación y modelado 3D.
+- Sensores y materiales esenciales previstos para el prototipo:
+  - Microcontrolador Arduino
+  - Sensores de presión para detectar el ajuste y uso real del corsé.(FSR)
+  - Sensor de temperatura para evaluar la comodidad del usuario y confirmar el uso del corsé.
+  - Módulo de energía simple (batería recargable o alimentación por USB).
+  - Textil compresivo/liner como soporte para integrar los sensores.
+  - Carcasa en impresión 3D para proteger la electrónica.
+-Asesoría de docentes, que complementan la formación técnica.
+
+## 6. Planificación inicial
