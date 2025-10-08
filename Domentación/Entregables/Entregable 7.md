@@ -55,7 +55,7 @@ Se guarda la calibración y se comienza la terapia.
 	- Antes del lavado, se retiran el módulo electrónico (SPS), los sensores removibles, los cuales se limpian por separado con un paño suave humedecido en alcohol isopropílico al 70 % o con toallitas médicas, sin sumergirlos en agua.
 	- Una vez limpio y seco, se vuelve a insertar la electrónica en sus respectivos bolsillos sellados y se verifica su funcionamiento mediante el recurso de monitoreo antes del siguiente uso.
 **Diagrama de flujo**
-<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/4.jpg" width="400">
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/4.jpg" width="200">
 
 ## 5. Técnicas de producción
 
