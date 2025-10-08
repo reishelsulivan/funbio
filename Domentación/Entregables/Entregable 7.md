@@ -21,9 +21,9 @@
 
 ## 2. Espacio de solución
 
-<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/boceto1.jpg" width="600">
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/boceto1.jpg" width="500">
 
-<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/boceto2.jpg" width="600">
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/boceto2.jpg" width="500">
 
 
 ## 3. ¿Fabricar o adquirir?:
