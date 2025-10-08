@@ -79,3 +79,41 @@ Técnicamente, un nivel medio garantiza que el dispositivo se encargue de interp
 Desde el punto de vista clínico, esta elección es adecuada porque el paciente es un niño, y se requiere un equilibrio entre asistencia tecnológica y control humano. El sistema busca facilitar el trabajo terapéutico y permitir al personal especializado evaluar la evolución de la escoliosis congénita del paciente, manteniendo la seguridad y comodidad. Además, la aplicación permite generar reportes diarios, cada tres días o semanales, según lo decida el usuario, facilitando el seguimiento del tratamiento y el monitoreo de la evolución del paciente.
 Con respecto a los escenarios de seguridad, en caso de que se detecte una condición anormal —como aumento de temperatura o humedad excesiva— la alerta se enviará automáticamente a través de la aplicación. Esto indica que el sistema está cumpliendo su función de detección. Solo si se presentan falsos positivos, se debe reportar al recurso de monitoreo para que se realice una revisión técnica y se garantice el correcto funcionamiento del dispositivo. Los padres o cuidadores no deben manipular la parte electrónica, ya que requiere conocimientos técnicos.
 En caso de falla del sistema, los sensores dejarán de emitir datos y el módulo entrará en “modo inactivo”, evitando lecturas erróneas y posibles confusiones. Por ello, no se requiere un botón de parada de emergencia, debido a que el dispositivo no cuenta con componentes motorizados que representen un riesgo activo. La seguridad se respalda mediante la supervisión del personal especializado y el diseño ergonómico y acolchado del corsé, que evita puntos de presión excesiva y mantiene la comodidad del paciente.
+
+## 8.Interfaces de red global(IoT y telesalud)
+1.  Sistema y recolección de datos
+Sensores
+
+
+Sensor de presión (en el punto crítico del corsé): mide la fuerza normal (en Newtons). Su señal analógica entra al convertidor ADC del ESP32 a una tasa típica de 10–50 Hz, lo cual es suficiente para detectar cambios graduales y picos por apriete.
+Temperatura del módulo (MCU): un termistor/sensor ubicado cerca de la electrónica/batería para seguridad térmica. Lectura periódica ( cada 1–2 s por ejempl).
+
+
+Microcontrolador ESP32
+
+
+Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
+Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
+Reglas con temporización (de esta manera se evitan falsos positivos):
+Uso: presión promedio por encima del umbral de uso durante 2–3 s.
+Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
+Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
+Comunicación:
+Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
+Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
+
+
+Celular de los padres (Bluetooth)
+Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
+Recibe notificaciones push
+“Presión excesiva en el punto”
+“Temperatura corporal alta”
+“Módulo caliente, revisar equipo”
+Muestra el estado (“En uso” / “No en uso”)
+
+
+Servidor/PC del terapeuta (Wi-Fi)
+
+
+Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
+Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
