@@ -27,7 +27,7 @@
 - Sensor de presión — Adquirir. Se comprará un sensor de presión presente en el mercado, preferiblemente el FSR
 - Microcontrolador — Adquirir. Se comprará un microcontrolador ESP32
 - Batería - Adquirir
-- Carcasa para electrónica - Fabricar. Se fabricará únicamente una carcasa para el microcontrolador ESP32.
+- Carcasa para electrónica - Fabricar. Se fabricará únicamente una carcasa para el microcontrolador y sensores.
 - Material para el liner - Adquirir.  Se adquirirá el material del liner.
 - Fabricación del liner — Fabricar. Se fabricará el liner con costura.
 
