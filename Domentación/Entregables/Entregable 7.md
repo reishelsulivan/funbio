@@ -34,26 +34,26 @@
 ## 4. Secuencia de procesos:
 Describir la rutina clínica de uso del sistema
 - Montaje en el paciente
-El fisioterapeuta prepara la piel del bebé 
-Se posiciona el liner con sensores dentro del corsé, asegurando que las zonas de presión coincidan con los puntos anatómicos indicados por el médico.
-Se conecta el módulo electrónico (SPS) a los conectores del liner.
-Se verifica que todo esté bien colocado y conectado con el recurso de monitoreo
+	- El fisioterapeuta prepara la piel del bebé 
+	- Se posiciona el liner con sensores dentro del corsé, asegurando que las zonas de presión coincidan con los puntos anatómicos indicados por el médico.
+	- Se conecta el módulo electrónico (SPS) a los conectores del liner.
+	- Se verifica que todo esté bien colocado y conectado con el recurso de monitoreo
 - Calibración
-Antes de iniciar, se enciende el módulo electrónico y se conecta al recurso de monitoreo.Se realiza una calibración inicial de presión y temperatura, asegurando que las lecturas correspondan al estado de reposo del paciente.
-Durante esta fase (≈10–15 segundos), el niño permanece quieto para registrar el nivel base de presión y temperatura.
-A continuación, el fisioterapeuta comprueba la reacción de los sensores ejerciendo suaves presiones manuales en los puntos clave del corsé; el sistema debe mostrar los cambios instantáneamente.
-Si se detectan lecturas fuera del rango previsto, se ajusta el liner o el corsé hasta alcanzar uniformidad en las áreas sensorizadas.
+	- Antes de iniciar, se enciende el módulo electrónico y se conecta al recurso de monitoreo.Se realiza una calibración inicial de presión y temperatura, asegurando que las lecturas correspondan al estado de reposo del paciente.
+	- Durante esta fase (≈10–15 segundos), el niño permanece quieto para registrar el nivel base de presión y temperatura.
+	- A continuación, el fisioterapeuta comprueba la reacción de los sensores ejerciendo suaves presiones manuales en los puntos clave del corsé; el sistema debe mostrar los cambios instantáneamente.
+	- Si se detectan lecturas fuera del rango previsto, se ajusta el liner o el corsé hasta alcanzar uniformidad en las áreas sensorizadas.
 Se guarda la calibración y se comienza la terapia.
 - Sesión de terapia
-Durante su uso, el sistema mide con el sensor de presión cada 2 segundos y el de temperatura cada 10 segundos, recolectando información suficiente para analizar la distribución de carga y el confort térmico del paciente.
-Los datos se envían de forma inalámbrica al recurso de monitoreo clínico, donde el fisioterapeuta puede observar las lecturas en tiempo real o analizarlas posteriormente.
-Si se detecta un aumento de presión o temperatura (por mala colocación o exceso de sudor), el sistema envía una alerta visual en el recurso de monitoreo, indicando la necesidad de reajustar el corsé.
+	- Durante su uso, el sistema mide con el sensor de presión cada 2 segundos y el de temperatura cada 10 segundos, recolectando información suficiente para analizar la distribución de carga y el confort térmico del paciente.
+	- Los datos se envían de forma inalámbrica al recurso de monitoreo clínico, donde el fisioterapeuta puede observar las lecturas en tiempo real o analizarlas posteriormente.
+	- Si se detecta un aumento de presión o temperatura (por mala colocación o exceso de sudor), el sistema envía una alerta visual en el recurso de monitoreo, indicando la necesidad de reajustar el corsé.
 - Desmontaje
-Se apaga el sistema, se desconecta del liner y se retira cuidadosamente el corsé del bebé.
-Se retira el liner del corsé si se requiere limpieza o cambio.
+	- Se apaga el sistema, se desconecta del liner y se retira cuidadosamente el corsé del bebé.
+	- Se retira el liner del corsé si se requiere limpieza o cambio.
 - Limpieza:
-Antes del lavado, se retiran el módulo electrónico (SPS), los sensores removibles, los cuales se limpian por separado con un paño suave humedecido en alcohol isopropílico al 70 % o con toallitas médicas, sin sumergirlos en agua.
-Una vez limpio y seco, se vuelve a insertar la electrónica en sus respectivos bolsillos sellados y se verifica su funcionamiento mediante el recurso de monitoreo antes del siguiente uso.
+	- Antes del lavado, se retiran el módulo electrónico (SPS), los sensores removibles, los cuales se limpian por separado con un paño suave humedecido en alcohol isopropílico al 70 % o con toallitas médicas, sin sumergirlos en agua.
+	- Una vez limpio y seco, se vuelve a insertar la electrónica en sus respectivos bolsillos sellados y se verifica su funcionamiento mediante el recurso de monitoreo antes del siguiente uso.
 Diagrama de flujo
 
 
