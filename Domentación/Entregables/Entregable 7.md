@@ -94,14 +94,14 @@ i. Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
 ii. Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
 iii. Reglas con temporización (de esta manera se evitan falsos positivos):
 
-	1. Uso: presión promedio por encima del umbral de uso durante 2–3 s.
-	2. Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
-	3. Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
+	- Uso: presión promedio por encima del umbral de uso durante 2–3 s.
+	- Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
+	- Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
 	
 iv. Comunicación:
 
-	1. Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
-	2. Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
+	- Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
+	- Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
 
 
 #### Celular de los padres (Bluetooth)
@@ -109,9 +109,9 @@ i. Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
 
 ii. Recibe notificaciones push
 
-	1. “Presión excesiva en el punto”
-	2. “Temperatura corporal alta”
-	3. “Módulo caliente, revisar equipo”
+	- “Presión excesiva en el punto”
+	- “Temperatura corporal alta”
+	- “Módulo caliente, revisar equipo”
 iii. Muestra el estado (“En uso” / “No en uso”)
 
 #### Servidor/PC del terapeuta (Wi-Fi)
