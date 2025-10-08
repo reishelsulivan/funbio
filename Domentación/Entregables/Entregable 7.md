@@ -104,10 +104,9 @@ iv. Comunicación:
 i. Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
 
 ii. Recibe notificaciones push
-
-	- “Presión excesiva en el punto”
-	- “Temperatura corporal alta”
-	- “Módulo caliente, revisar equipo”
+	- Presión excesiva en el punto
+	- Temperatura corporal alta
+	- Módulo caliente, revisar equipo
 iii. Muestra el estado (“En uso” / “No en uso”)
 
 #### Servidor/PC del terapeuta (Wi-Fi)
