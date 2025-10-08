@@ -86,18 +86,17 @@ En caso de falla del sistema, los sensores dejarán de emitir datos y el módulo
 i. Sensor de presión (en el punto crítico del corsé): mide la fuerza normal (en Newtons). Su señal analógica entra al convertidor ADC del ESP32 a una tasa típica de 10–50 Hz, lo cual es suficiente para detectar cambios graduales y picos por apriete.
 ii. Temperatura del módulo (MCU): un termistor/sensor ubicado cerca de la electrónica/batería para seguridad térmica. Lectura periódica ( cada 1–2 s por ejempl).
 
-
 #### Microcontrolador ESP32
 i. Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
 ii. Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
 iii. Reglas con temporización (de esta manera se evitan falsos positivos):
-	- Uso: presión promedio por encima del umbral de uso durante 2–3 s.
-	- Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
-	- Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
+- Uso: presión promedio por encima del umbral de uso durante 2–3 s.
+- Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
+- Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
 	
 iv. Comunicación:
-	- Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
-	- Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
+- Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
+- Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
 
 
 #### Celular de los padres (Bluetooth)
@@ -110,7 +109,6 @@ iii. Muestra el estado (“En uso” / “No en uso”)
 
 #### Servidor/PC del terapeuta (Wi-Fi)
 i. Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
-
 ii. Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
 
 ### 2.  Información recolectada
