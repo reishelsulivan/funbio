@@ -119,7 +119,7 @@ El sistema registra dos señales y metadatos operativos. En primer lugar, la pre
 ### 3. Reportes para el terapeuta
 Esta tabla es el encabezado del reporte que recibirá el especialista. Cada fila resume una lectura con identificadores anónimos y variables clave: Sesión (código de la sesión), Paciente (código anónimo), Fecha en formato ISO (sin ambigüedades horarias), presión_N (fuerza en Newtons sobre el punto monitorizado), temp_modulo_C (temperatura del conjunto electrónico en °C para control térmico), estado_bluetooth y estado_wifi (conectividad al momento de la medición) y en_uso (0/1 según si la presión supera el umbral de uso). Con esta estructura el especialista puede identificar/estudiar rápidamente la adherencia y la comodidad del paciente.
 
-<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.2.jpg" width="400">
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.2.jpg" width="750">
 
 ### 4. Medidas de seguridad
 Protección de archivos: enviar el CSV/Excel empaquetado en ZIP con contraseña; la contraseña se comparte solo con el terapeuta
