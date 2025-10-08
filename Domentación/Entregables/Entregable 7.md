@@ -89,17 +89,13 @@ ii. Temperatura del módulo (MCU): un termistor/sensor ubicado cerca de la elect
 
 #### Microcontrolador ESP32
 i. Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
-
-
 ii. Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
 iii. Reglas con temporización (de esta manera se evitan falsos positivos):
-
 	- Uso: presión promedio por encima del umbral de uso durante 2–3 s.
 	- Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
 	- Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
 	
 iv. Comunicación:
-
 	- Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
 	- Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
 
@@ -108,7 +104,6 @@ iv. Comunicación:
 i. Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
 
 ii. Recibe notificaciones push
-
 	- “Presión excesiva en el punto”
 	- “Temperatura corporal alta”
 	- “Módulo caliente, revisar equipo”
