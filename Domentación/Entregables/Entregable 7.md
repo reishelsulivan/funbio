@@ -114,7 +114,7 @@ iii. Muestra el estado (“En uso” / “No en uso”)
 i. Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
 ii. Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
 
-<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.1.jpg" width="400">
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.1.jpg" width="600">
 
 ### 2.  Información recolectada
 El sistema registra dos señales y metadatos operativos. En primer lugar, la presión en el punto crítico del corsé (en N), con muestras entre 10 y 50 Hz y suavizada con promedio móvil para atenuar el ruido; a partir de ella se determina el estado de uso cuando el promedio supera un umbral de uso durante algunos segundos, y se detecta presión excesiva cuando la señal permanece por encima del umbral clínico de presión con un tiempo mínimo para evitar falsos positivos. En segundo lugar, la temperatura del módulo electrónico (en °C), medida cerca de la electrónica o la batería a intervalos de 1–2 s, que permite identificar sobrecalentamiento del dispositivo si rebasa el umbral de temperatura por un lapso definido. Además se almacenan metadatos por registro (sello de tiempo, código anónimo del paciente, estado de conectividad Bluetooth/Wi-Fi y eventos como inicio, pausa, fin o alertas) en formato CSV/Excel para análisis y generación de reportes diarios o al detectar anomalías.	
