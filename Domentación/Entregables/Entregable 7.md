@@ -54,8 +54,8 @@ Se guarda la calibración y se comienza la terapia.
 - Limpieza:
 	- Antes del lavado, se retiran el módulo electrónico (SPS), los sensores removibles, los cuales se limpian por separado con un paño suave humedecido en alcohol isopropílico al 70 % o con toallitas médicas, sin sumergirlos en agua.
 	- Una vez limpio y seco, se vuelve a insertar la electrónica en sus respectivos bolsillos sellados y se verifica su funcionamiento mediante el recurso de monitoreo antes del siguiente uso.
-Diagrama de flujo
-
+**Diagrama de flujo**
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/4.jpg" width="400">
 
 ## 5. Técnicas de producción
 
@@ -111,11 +111,16 @@ iii. Muestra el estado (“En uso” / “No en uso”)
 i. Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
 ii. Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
 
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.1.jpg" width="400">
+
 ### 2.  Información recolectada
 El sistema registra dos señales y metadatos operativos. En primer lugar, la presión en el punto crítico del corsé (en N), con muestras entre 10 y 50 Hz y suavizada con promedio móvil para atenuar el ruido; a partir de ella se determina el estado de uso cuando el promedio supera un umbral de uso durante algunos segundos, y se detecta presión excesiva cuando la señal permanece por encima del umbral clínico de presión con un tiempo mínimo para evitar falsos positivos. En segundo lugar, la temperatura del módulo electrónico (en °C), medida cerca de la electrónica o la batería a intervalos de 1–2 s, que permite identificar sobrecalentamiento del dispositivo si rebasa el umbral de temperatura por un lapso definido. Además se almacenan metadatos por registro (sello de tiempo, código anónimo del paciente, estado de conectividad Bluetooth/Wi-Fi y eventos como inicio, pausa, fin o alertas) en formato CSV/Excel para análisis y generación de reportes diarios o al detectar anomalías.	
 
 ### 3. Reportes para el terapeuta
 Esta tabla es el encabezado del reporte que recibirá el especialista. Cada fila resume una lectura con identificadores anónimos y variables clave: Sesión (código de la sesión), Paciente (código anónimo), Fecha en formato ISO (sin ambigüedades horarias), presión_N (fuerza en Newtons sobre el punto monitorizado), temp_modulo_C (temperatura del conjunto electrónico en °C para control térmico), estado_bluetooth y estado_wifi (conectividad al momento de la medición) y en_uso (0/1 según si la presión supera el umbral de uso). Con esta estructura el especialista puede identificar/estudiar rápidamente la adherencia y la comodidad del paciente.
+
+<img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%207/8.2.jpg" width="400">
+
 ### 4. Medidas de seguridad
 Protección de archivos: enviar el CSV/Excel empaquetado en ZIP con contraseña; la contraseña se comparte solo con el terapeuta
 Solo recolectar los datos necesarios: solo presión/temperaturas y eventos; nada de datos personales ni ubicación
