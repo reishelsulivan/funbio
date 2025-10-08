@@ -81,48 +81,41 @@ Con respecto a los escenarios de seguridad, en caso de que se detecte una condic
 En caso de falla del sistema, los sensores dejarán de emitir datos y el módulo entrará en “modo inactivo”, evitando lecturas erróneas y posibles confusiones. Por ello, no se requiere un botón de parada de emergencia, debido a que el dispositivo no cuenta con componentes motorizados que representen un riesgo activo. La seguridad se respalda mediante la supervisión del personal especializado y el diseño ergonómico y acolchado del corsé, que evita puntos de presión excesiva y mantiene la comodidad del paciente.
 
 ## 8.Interfaces de red global(IoT y telesalud)
-Sensores
+### 1.  Sistema y recolección de datos
+#### Sensores
+i. Sensor de presión (en el punto crítico del corsé): mide la fuerza normal (en Newtons). Su señal analógica entra al convertidor ADC del ESP32 a una tasa típica de 10–50 Hz, lo cual es suficiente para detectar cambios graduales y picos por apriete.
+ii. Temperatura del módulo (MCU): un termistor/sensor ubicado cerca de la electrónica/batería para seguridad térmica. Lectura periódica ( cada 1–2 s por ejempl).
 
 
-Sensor de presión (en el punto crítico del corsé): mide la fuerza normal (en Newtons). Su señal analógica entra al convertidor ADC del ESP32 a una tasa típica de 10–50 Hz, lo cual es suficiente para detectar cambios graduales y picos por apriete.
-Temperatura del módulo (MCU): un termistor/sensor ubicado cerca de la electrónica/batería para seguridad térmica. Lectura periódica ( cada 1–2 s por ejempl).
+#### Microcontrolador ESP32
+i. Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
+ii. Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
+iii. Reglas con temporización (de esta manera se evitan falsos positivos):
+	1. Uso: presión promedio por encima del umbral de uso durante 2–3 s.
+	2. Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
+	3. Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
+iv. Comunicación:
+	1. Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
+	2. Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
 
 
-Microcontrolador ESP32
+#### Celular de los padres (Bluetooth)
+i. Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
+ii. Recibe notificaciones push
+	1. “Presión excesiva en el punto”
+	2. “Temperatura corporal alta”
+	3. “Módulo caliente, revisar equipo”
+iii. Muestra el estado (“En uso” / “No en uso”)
+#### Servidor/PC del terapeuta (Wi-Fi)
+i. Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
+ii. Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
 
-
-Adquisición: digitaliza presión (ADC) y lee temperaturas (1-Wire/I²C).
-Procesamiento: calcula promedios, máximos y banderas (en uso / presión excesiva / temperatura alta).
-Reglas con temporización (de esta manera se evitan falsos positivos):
-Uso: presión promedio por encima del umbral de uso durante 2–3 s.
-Presión excesiva: presión por encima del umbral de presión ≥ 3 s.
-Temperatura MCU alta: Tmcu > Tmcu_max ≥ 5 s.
-Comunicación:
-Bluetooth (activo de manera continua): envía notificaciones inmediatas al celular de los padres. Si el enlace se corta, el ESP32 reintenta y acumula alertas para el siguiente envío.
-Wi-Fi (cuando esté disponible): envía reportes en formato CSV y un resumen de manera diaria a una hora programada o cuando aparece una anomalía.
-
-
-Celular de los padres (Bluetooth)
-Mantiene una conexión BLE (Bluetooth Low Energy) en segundo plano.
-Recibe notificaciones push
-“Presión excesiva en el punto”
-“Temperatura corporal alta”
-“Módulo caliente, revisar equipo”
-Muestra el estado (“En uso” / “No en uso”)
-
-
-Servidor/PC del terapeuta (Wi-Fi)
-
-
-Recibe reportes automáticos (diarios o por anomalías) en formato tipo CSV crudo y una hoja de resumen lista para graficar.
-Posible inclusión de vistas con curvas de presión/temperaturas y marcadores de eventos.
-
-2.  Información recolectada
+### 2.  Información recolectada
 El sistema registra dos señales y metadatos operativos. En primer lugar, la presión en el punto crítico del corsé (en N), con muestras entre 10 y 50 Hz y suavizada con promedio móvil para atenuar el ruido; a partir de ella se determina el estado de uso cuando el promedio supera un umbral de uso durante algunos segundos, y se detecta presión excesiva cuando la señal permanece por encima del umbral clínico de presión con un tiempo mínimo para evitar falsos positivos. En segundo lugar, la temperatura del módulo electrónico (en °C), medida cerca de la electrónica o la batería a intervalos de 1–2 s, que permite identificar sobrecalentamiento del dispositivo si rebasa el umbral de temperatura por un lapso definido. Además se almacenan metadatos por registro (sello de tiempo, código anónimo del paciente, estado de conectividad Bluetooth/Wi-Fi y eventos como inicio, pausa, fin o alertas) en formato CSV/Excel para análisis y generación de reportes diarios o al detectar anomalías.	
 
-3. Reportes para el terapeuta
+### 3. Reportes para el terapeuta
 Esta tabla es el encabezado del reporte que recibirá el especialista. Cada fila resume una lectura con identificadores anónimos y variables clave: Sesión (código de la sesión), Paciente (código anónimo), Fecha en formato ISO (sin ambigüedades horarias), presión_N (fuerza en Newtons sobre el punto monitorizado), temp_modulo_C (temperatura del conjunto electrónico en °C para control térmico), estado_bluetooth y estado_wifi (conectividad al momento de la medición) y en_uso (0/1 según si la presión supera el umbral de uso). Con esta estructura el especialista puede identificar/estudiar rápidamente la adherencia y la comodidad del paciente.
-4. Medidas de seguridad
+### 4. Medidas de seguridad
 Protección de archivos: enviar el CSV/Excel empaquetado en ZIP con contraseña; la contraseña se comparte solo con el terapeuta
 Solo recolectar los datos necesarios: solo presión/temperaturas y eventos; nada de datos personales ni ubicación
 Registro de fallos: si se detecta sensor desconectado/valores fuera de rango, marcar evento="fallo_sensor" y notificar (de esta manera no arriesgaremos las interpretaciones con lecturas ambiguas)
