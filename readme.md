@@ -36,7 +36,8 @@
 ---
 
 ### Sophia Nicole Nieves Maury  
-- **Edad:** 21 años  
+- **Edad:** 21 años
+- **Correo:** sophia.nieves@upch.pe 
 <p align="center">
   <img src="https://github.com/reishelsulivan/funbio/blob/main/Imagenes/FOTO%20Sophia.jpeg" alt="Imagen NICOLE" width="200"/>
 </p>
