@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fundamentos de Biodiseño: Entregable Nº 7
+# Fundamentos de Biodiseño: Hito N°1
 
 </div>
 
