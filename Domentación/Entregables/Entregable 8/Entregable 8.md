@@ -37,7 +37,8 @@ https://cad.onshape.com/documents/760e85918c161715fd75b83e/w/cb98ee53cf6b21a846f
 
 https://cad.onshape.com/documents/a6e36f7cac065b05814f1a20/w/e1e7ecee820c783deadf52ee/e/a61f189e7a23719cba901df4?renderMode=0&uiState=68f8658543911c5820f0db09
 ### Case FSR
-![Texto alternativo](https://www.ejemplo.com/imagen.jpg)
+![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/recursos%20entregable%208/FSR_Base_1.0.3_display_large.jpg)
+![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/recursos%20entregable%208/GlassClip_Stand_v1.0.5_display_large.jpg)
 https://cad.onshape.com/documents/7fd997337caf7b52a8c2670a/w/bb5fb6264d26da24b70b61d7/e/f94ade3b7513662598104bfb?renderMode=0&uiState=68f86799a9befacfd822988b
 ### Case Motor de vibracion
 ![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/recursos%20entregable%208/Captura%20de%20pantalla%202025-10-22%20000623.jpg)
