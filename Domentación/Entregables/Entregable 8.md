@@ -5,12 +5,6 @@
 </div>
 <div align="center">
   
-## Sección 1: Esquema Electrónico
-</div>
-
-
-<div align="center">
-  
 ## Sección 2: Modelado 3D
 </div>
 
