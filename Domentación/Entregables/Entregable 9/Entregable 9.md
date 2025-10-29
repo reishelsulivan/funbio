@@ -18,6 +18,12 @@ Superficie corporal sensible: por ello, los sensores están aislados térmica y 
 
 Con respecto a la frecuencia de uso, el sistema se usará de forma continua durante varias horas al día, especialmente durante las sesiones de corrección postural. Se recomienda retirarlo durante el descanso nocturno o cuando se cargue el sistema electrónico.
 
+![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/recursos%20entregable%208/Captura%20de%20pantalla%202025-10-21%20235807.jpg)
+Fig 1. Modelado 3D del case con los componentes electrónicos internos del dispositivo.
+
+![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/recursos%20entregable%208/Captura%20de%20pantalla%202025-10-21%20235807.jpg)
+Fig 2. Bosquejo del dispositivo en uso por el paciente
+
 ## Perfil del usuario:
 
 ### ¿Qué es ?
