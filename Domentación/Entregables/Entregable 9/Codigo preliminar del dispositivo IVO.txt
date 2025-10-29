@@ -1,0 +1,63 @@
+#include <OneWire.h>
+#include <DallasTemperature.h>
+
+// Pines de los sensores
+#define FSR3_PIN 34
+#define FSR2_PIN 32
+#define FSR1_PIN 33
+#define TMP36_PIN 35
+#define ONE_WIRE_BUS 25
+#define MOTOR_PIN 27
+
+// Umbrales
+#define FSR_THRESHOLD 3000      // Ajusta según tus FSR
+#define TMP36_THRESHOLD 35.0    // Temperatura °C
+#define DS18B20_THRESHOLD 35.0  // Temperatura °C
+
+// Configuración del bus OneWire
+OneWire oneWire(ONE_WIRE_BUS);
+DallasTemperature sensors(&oneWire);
+
+void setup() {
+  Serial.begin(115200);
+  sensors.begin();
+  
+  pinMode(MOTOR_PIN, OUTPUT);
+  digitalWrite(MOTOR_PIN, LOW);
+  
+  Serial.println("Sistema iniciado: FSR + TMP36 + DS18B20 + Motor");
+}
+
+void loop() {
+  // --- Lectura FSR ---
+  int fsr1 = analogRead(FSR1_PIN);
+  int fsr2 = analogRead(FSR2_PIN);
+  int fsr3 = analogRead(FSR3_PIN);
+
+  // --- Lectura TMP36 ---
+  int tmp36_value = analogRead(TMP36_PIN);
+  float voltage = tmp36_value * (3.3 / 4095.0);   // ADC a voltaje (0–3.3V)
+  float tempTMP36 = (voltage - 0.5) * 100.0;      // Conversión a °C
+
+  // --- Lectura DS18B20 ---
+  sensors.requestTemperatures();
+  float tempDS18B20 = sensors.getTempCByIndex(0);
+
+  // Mostrar en monitor serial
+  Serial.println("===== Lecturas =====");
+  Serial.printf("FSR1: %d\t FSR2: %d\t FSR3: %d\n", fsr1, fsr2, fsr3);
+  Serial.printf("TMP36: %.2f °C\t DS18B20: %.2f °C\n", tempTMP36, tempDS18B20);
+
+  // --- Condición para activar el motor ---
+  bool fuerzaAlta = (fsr1 > FSR_THRESHOLD || fsr2 > FSR_THRESHOLD || fsr3 > FSR_THRESHOLD);
+  bool tempAlta = (tempTMP36 > TMP36_THRESHOLD || tempDS18B20 > DS18B20_THRESHOLD);
+
+  if (fuerzaAlta || tempAlta) {
+    Serial.println(" Umbral superado. Activando motor...");
+    digitalWrite(MOTOR_PIN, HIGH);
+    delay(1000);  // vibrar 1 segundo
+    digitalWrite(MOTOR_PIN, LOW);
+  }
+
+  delay(500);  // tiempo de muestreo
+}
