@@ -25,22 +25,22 @@ Con respecto a la frecuencia de uso, el sistema se usará de forma continua dura
 Escoliosis doble curva dorsal izquierda moderada ,lumbar derecha moderada congénita 
 Marcha independiente
 Hombro derecho más bajo 
-	- Características Cognitivas: Las discapacidades físicas en la primera infancia pueden asociarse a retrasos en el desarrollo cognitivo, del lenguaje y social, ya que la movilidad limitada restringe la exploración y la interacción con el entorno, fundamentales en esta etapa crítica . Sin embargo, no se indica en el niño alteraciones cognitivas
-	- Características Emocionales: 
+- Características Cognitivas: Las discapacidades físicas en la primera infancia pueden asociarse a retrasos en el desarrollo cognitivo, del lenguaje y social, ya que la movilidad limitada restringe la exploración y la interacción con el entorno, fundamentales en esta etapa crítica . Sin embargo, no se indica en el niño alteraciones cognitivas
+- Características Emocionales: 
 Se muestra tímido durante las sesiones de terapia física y citas de control
 Despierto y activo 
-	¿Qué hacer ? 
-	El  paciente no manifiesta limitaciones visuales , cognitivas ,motoras o de comprensión.
+### ¿Qué hacer ? 
+El  paciente no manifiesta limitaciones visuales , cognitivas ,motoras o de comprensión.
  
-	¿Qué evidencia deben incluir ? 
-	De acuerdo  a los datos proporcionados sobre el paciente , las características físicas-motoras y musculoesquelético son las siguientes :
+### ¿Qué evidencia deben incluir ? 
+De acuerdo  a los datos proporcionados sobre el paciente , las características físicas-motoras y musculoesquelético son las siguientes :
 	
-Físico: Buenas bases de sustentación y escoliosis dorsal leve convexa izquierda
-Articulaciones : Se observa que la tibia y la rodilla funcionan con normalidad mientras que ambos pies presentan un arco longitudinal interno descendido .Metatarso normal .
-Músculos : Buen tono .No controla esfínteres.Presenta leve rectificación de la lordosis cervical lo que indica tensión muscular.
-Postura: Control cefálico aproximadamente a los 6 meses.Equilibrio al sentarse a los 7 meses.Marcha independiente al 1 año y 6 meses.
-Control motor: Presenta una marcha independiente y ángulo de progresión normal. 
-Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
+- Físico: Buenas bases de sustentación y escoliosis dorsal leve convexa izquierda
+- Articulaciones : Se observa que la tibia y la rodilla funcionan con normalidad mientras que ambos pies presentan un arco longitudinal interno descendido .Metatarso normal .
+- Músculos : Buen tono .No controla esfínteres.Presenta leve rectificación de la lordosis cervical lo que indica tensión muscular.
+- Postura: Control cefálico aproximadamente a los 6 meses.Equilibrio al sentarse a los 7 meses.Marcha independiente al 1 año y 6 meses.
+- Control motor: Presenta una marcha independiente y ángulo de progresión normal. 
+- Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
 
 
 ## Análisis de tareas:
