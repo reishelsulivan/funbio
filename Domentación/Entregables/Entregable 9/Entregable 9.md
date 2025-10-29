@@ -22,6 +22,7 @@ Con respecto a la frecuencia de uso, el sistema se usará de forma continua dura
 Fig 1. Modelado 3D del case con los componentes electrónicos internos del dispositivo.
 
 ![Texto alternativo](https://github.com/reishelsulivan/funbio/blob/main/Imagenes/Recursos%20entregable%209/Captura%20de%20pantalla%202025-10-29%20004342.jpg)
+
 Fig 2. Bosquejo del dispositivo en uso por el paciente
 
 ## Perfil del usuario:
