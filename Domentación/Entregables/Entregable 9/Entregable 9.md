@@ -18,15 +18,15 @@ Superficie corporal sensible: por ello, los sensores están aislados térmica y 
 
 Con respecto a la frecuencia de uso, el sistema se usará de forma continua durante varias horas al día, especialmente durante las sesiones de corrección postural. Se recomienda retirarlo durante el descanso nocturno o cuando se cargue el sistema electrónico.
 
-### Perfil del usuario:
+## Perfil del usuario:
 
-	¿Qué es ?
-	-Características físicas:
+### ¿Qué es ?
+- Características físicas:
 Escoliosis doble curva dorsal izquierda moderada ,lumbar derecha moderada congénita 
 Marcha independiente
 Hombro derecho más bajo 
-	-Características Cognitivas: Las discapacidades físicas en la primera infancia pueden asociarse a retrasos en el desarrollo cognitivo, del lenguaje y social, ya que la movilidad limitada restringe la exploración y la interacción con el entorno, fundamentales en esta etapa crítica . Sin embargo, no se indica en el niño alteraciones cognitivas
-	-Características Emocionales: 
+	- Características Cognitivas: Las discapacidades físicas en la primera infancia pueden asociarse a retrasos en el desarrollo cognitivo, del lenguaje y social, ya que la movilidad limitada restringe la exploración y la interacción con el entorno, fundamentales en esta etapa crítica . Sin embargo, no se indica en el niño alteraciones cognitivas
+	- Características Emocionales: 
 Se muestra tímido durante las sesiones de terapia física y citas de control
 Despierto y activo 
 	¿Qué hacer ? 
@@ -43,8 +43,8 @@ Control motor: Presenta una marcha independiente y ángulo de progresión normal
 Patrones y estrategias de movimiento: Marcha independiente con una base amplía de sustentación. Hombro derecho más descendido al igual que la escápula derecha.
 
 
-### Análisis de tareas:
-¿Qué es?
+## Análisis de tareas:
+### ¿Qué es?
 Son las tareas necesarias para usar el prototipo correctamente, desde la colocación del liner inteligente, hasta la verificación del monitoreo. Incluye acciones como: colocar el liner dentro del corsé, verificar la ubicación de los sensores, encender el sistema, revisar los datos de presión y temperatura y atender las alertas que este emitirá. También se consideran las tareas críticas, las cuales, si se realizan mal, pueden causar fallas en la medición o lesiones por presión 
 
 ### ¿Qué hacer?
@@ -68,7 +68,7 @@ De acuerdo con Hannink et al. [2], los pacientes pediátricos que usan corsés q
 Los estudios del Instituto Nacional de Salud del Niño indican que si no se realiza un seguimiento apropiado, puede deteriorarse la curvatura y presentarse problemas en la corrección ortopédica [3].
 Asimismo, los informes técnicos en patentes de dispositivos inteligentes para la escoliosis subrayan que errores en la lectura de sensores o en la respuesta a las alertas pueden afectar el monitoreo preciso y poner en peligro la seguridad del paciente.
 
-### Criterios de éxito (requisitos de usabilidad):
+## Criterios de éxito (requisitos de usabilidad):
 
 | **Criterio de Éxito**         | **Descripción y Métrica**                                                                                                                                                     |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -77,7 +77,7 @@ Asimismo, los informes técnicos en patentes de dispositivos inteligentes para l
 | **Interfaz Comprensible**     | El cuidador debe ser capaz de interpretar correctamente las alertas principales (sobrepresión, batería baja, fallo de sensor).                                                 |
 
 
-Referencias:
+## Referencias:
 [1]E. F. R. Aguilar, “Estado del arte de la intervención con familias en atención temprana durante la última década en España,” International Journal of Developmental and Educational Psychology Revista INFAD De Psicología, vol. 1, no. 2, pp. 223–244, Jan. 2021, doi: 10.17060/ijodaep.2020.n2.v1.1973.
 
 [2] Hannink E, Toye F, Newman M, Barker KL. La experiencia de vivir con escoliosis idiopática adolescente: una síntesis cualitativa de evidencia mediante meta-etnografía. BMC Pediatrics; 2023.
