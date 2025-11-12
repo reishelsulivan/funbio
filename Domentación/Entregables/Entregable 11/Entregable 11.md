@@ -48,21 +48,23 @@ DS18B20).
  El sistema físico se compone de un case principal impreso en 3D, monturas flexibles para los sensores de presión y soportes internos que integran la electrónica liner.
  Estas piezas han sido diseñadas en Onshape bajo criterios de ergonomía, comodidad de uso y facilidad de integración con los módulos electrónicos (ESP32, sensores FSR, DS18B20, TMP36, TP4056, batería Li-ion y módulo de vibración).
 El objetivo del diseño digital es proteger la electrónica, mantener su posición estable sobre el cuerpo, permitir el intercambio o mantenimiento de los componentes.
-Diseño y componentes
-Case principal:
-Contiene el microcontrolador ESP32 y Expansion Board, el módulo TP4056, MT3608, la batería, el switch y el sensor de temperatura DS18B20.
-Incorpora guías para la fijación de los componentes mediante insertos roscados
-Dispone de ranuras para el acceso a conectores (USB, switch, pines de prueba).
-Protege el conjunto.
-Montura de sensores (FSR):
-Sostiene los FSR en posición estable para estar sujeto en el liner.
-Permiten transmitir la presión del cuerpo sin causar incomodidad ni deformar los sensores.
-Ensamble general
-·  Fijar ESP32 y módulos al case mediante insertos roscados
-·  Conectar batería y guiar los cables
-·  Insertar el conjunto en el bolsillo o zona designada del liner.
-·  Conectar las monturas de sensores FSR a los cables del case.
-Verificación
+### Diseño y componentes
+#### Case principal:
+- Contiene el microcontrolador ESP32 y Expansion Board, el módulo TP4056, MT3608, la batería, el switch y el sensor de temperatura DS18B20.
+- Incorpora guías para la fijación de los componentes mediante insertos roscados
+- Dispone de ranuras para el acceso a conectores (USB, switch, pines de prueba).
+- Protege el conjunto.
+- Montura de sensores (FSR):
+- Sostiene los FSR en posición estable para estar sujeto en el liner.
+- Permiten transmitir la presión del cuerpo sin causar incomodidad ni deformar los sensores.
+- 
+#### Ensamble general
+- Fijar ESP32 y módulos al case mediante insertos roscados
+- Conectar batería y guiar los cables
+- Insertar el conjunto en el bolsillo o zona designada del liner.
+- Conectar las monturas de sensores FSR a los cables del case.
+
+#### Verificación
 | **Prueba / Criterio** | **Procedimiento (digital)** | **Resultado esperado** | **Estado** |
 |------------------------|-----------------------------|------------------------|-------------|
 | **Compatibilidad con electrónica** | Revisión en CAD de los espacios para la PCB, batería y conectores. | Todos los componentes encajan sin interferencias ni solapamientos. |  Verificado digitalmente |
@@ -74,3 +76,7 @@ Verificación
 | **Resistencia y durabilidad** | Análisis preliminar del modelo y espesores. | Estructura sin zonas frágiles; resistencia esperada adecuada. |  Por comprobar (prototipo) |
 | **Ajuste en uso prolongado** | Simulación de flexión y contacto con el cuerpo. | No debería causar incomodidad o presión excesiva. |  Por comprobar |
 | **Mantenimiento y desmontaje** | Evaluación de apertura y cierre en el modelo. | Se puede abrir sin dañar el encaje ni la tapa. |  Por comprobar |
+
+El diseño digital del case y monturas del liner inteligente ha sido verificado digitalmente y cumple con los requerimientos de diseño, compatibilidad electrónica y ergonomía previstos.
+ Se encuentra en fase de validación física tras el envío a impresión 3D.
+
