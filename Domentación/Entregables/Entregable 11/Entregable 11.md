@@ -13,7 +13,7 @@ El liner busca proporcionar información objetiva y continua sobre el comportami
 
 # Objetivos
 - Diseñar un corsé inteligente integrado con sensores para monitorear la postura y el crecimiento de la curvatura en la escoliosis congénita en pacientes pediátricos.
-- Asegurar un montaje y ajuste rápido (menor a 3 minutos) del corsé por parte del cuidador para garantizar la comodidad y seguridad.
+- Asegurar un montaje y ajuste rápido del corsé por parte del cuidador para garantizar la comodidad y seguridad.
 - Desarrollar una interfaz comprensible para que el cuidador interprete alertas de sobrepresión, batería y fallos del sensor.
 - Validar la interacción entre los sensores, el microcontrolador y la interfaz digital con el fin de garantizar una correcta adquisición y transmisión de datos.
 - Evaluar el diseño físico y digital del case y las monturas para asegurar la compatibilidad electrónica, comodidad y resistencia del prototipo.
