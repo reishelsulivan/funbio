@@ -9,10 +9,15 @@
 
 # Introducción
 El presente proyecto consiste en el desarrollo de un liner ortésico con sensores destinado a un menor de dos años con escoliosis congénita, con el objetivo de facilitar el monitoreo del crecimiento de la curvatura y la presión ejercida sobre la columna durante el uso del corsé. El sistema integra componentes electrónicos, mecánicos y digitales, combinando sensores de presión (FSR) y temperatura (DS18B20) conectados a un microcontrolador ESP32 para la adquisición y transmisión de datos en tiempo real. 
+El liner busca proporcionar información objetiva y continua sobre el comportamiento del cuerpo del paciente en relación a la curvatura. Además, su diseño está orientado a garantizar la comodidad, seguridad y facilidad de uso, tanto para el paciente como para el personal médico.Actualmente, el proyecto se encuentra en la fase de integración y verificación, en la cual se evalúa la compatibilidad entre los subsistemas de hardware, software y manufactura digital, asegurando el cumplimiento de los requerimientos de diseño definidos en etapas previas.
+
 # Objetivos
-- Diseñar un corsé inteligente integrado con sensores para monitorear la postura y progreso de la escoliosis congénita en niños pequeños.
+- Diseñar un corsé inteligente integrado con sensores para monitorear la postura y el crecimiento de la curvatura en la escoliosis congénita en pacientes pediátricos.
 - Asegurar un montaje y ajuste rápido (menor a 3 minutos) del corsé por parte del cuidador para garantizar la comodidad y seguridad.
 - Desarrollar una interfaz comprensible para que el cuidador interprete alertas de sobrepresión, batería y fallos del sensor.
+- Validar la interacción entre los sensores, el microcontrolador y la interfaz digital con el fin de garantizar una correcta adquisición y transmisión de datos.
+- Evaluar el diseño físico y digital del case y las monturas para asegurar la compatibilidad electrónica, comodidad y resistencia del prototipo.
+- Verificar el cumplimiento de los requerimientos de diseño y proponer ajustes necesarios antes de la validación final del dispositivo
 
 # Verificación del diseño 
 ## Hardware (Electrónica) 
