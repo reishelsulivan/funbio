@@ -33,18 +33,14 @@ nF a GND cerca del pin.
 para el motor). Par +/– trenzado y 100 nF junto al módulo. 
 Energía:  
 	- Batería 3.7 V → TP4056 → SWITCH → Reg 3.3 V → 3V3 (ESP32, FSR, TMP36, 
-DS18B20). 
-### Lógica térmica (por protección): 
+DS18B20).
 
-	- Disparo si T_near ≥ 50 °C o ΔT = |T_near − T_amb| ≥ 10 °C. 
-	
-	- Acción: limitar PWM del motor, enviar alerta BLE; registrar evento. 
+### Lógica térmica (por protección): 
+- Disparo si T_near ≥ 50 °C o ΔT = |T_near − T_amb| ≥ 10 °C. 
+- Acción: limitar PWM del motor, enviar alerta BLE; registrar evento. 
 	
 ### Verificación:  
-
-	- T°: provocar ΔT≥10 °C con aire caliente local al ESP; debe disparar protección.  
-	
-	- Autonomía: ≥ 8 h (BLE + logging, sin vibración continua). 
-	
-	- Vibración: latencia < 200 ms (GPIO18→corriente).
+- T°: provocar ΔT≥10 °C con aire caliente local al ESP; debe disparar protección.  	
+- Autonomía: ≥ 8 h (BLE + logging, sin vibración continua). 	
+- Vibración: latencia < 200 ms (GPIO18→corriente).
 
