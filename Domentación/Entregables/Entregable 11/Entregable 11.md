@@ -93,6 +93,15 @@ El objetivo del diseño digital es proteger la electrónica, mantener su posici�
 El diseño digital del case y monturas del liner inteligente ha sido verificado digitalmente y cumple con los requerimientos de diseño, compatibilidad electrónica y ergonomía previstos.
  Se encuentra en fase de validación física tras el envío a impresión 3D.
 
+### Verificación del diseño (Software)
+| **N°** | **Funcionalidad** | **Cumplimiento (Sí/No)** |
+|:------:|--------------------|:------------------------:|
+| 1 | Recepción de datos de temperatura y presión enviados por el microcontrolador ESP32 vía Bluetooth. | Sí |
+| 2 | Visualización en pantalla de los valores de temperatura y presión actualizados cada 20–30 minutos. | Sí |
+| 3 | Alerta visual cuando los valores de temperatura o presión superan los límites establecidos (por ejemplo, >38 °C o >5 kPa). | Sí |
+| 4 | Botón de actualización manual que permite al usuario forzar la lectura de nuevos datos del ESP32. | Sí |
+| 5 | Indicador de estado de conexión Bluetooth (conectado / desconectado). | Sí |
+| 6 | Registro temporal del historial de las últimas mediciones recibidas. | Parcial |
 ### Tabla de verificación del prototipo
 
 | **Funcionalidad** | **Cumplimiento** |
