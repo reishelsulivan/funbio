@@ -7,6 +7,13 @@
   
 </div>
 
+# Introducción
+El presente proyecto consiste en el desarrollo de un liner ortésico con sensores destinado a un menor de dos años con escoliosis congénita, con el objetivo de facilitar el monitoreo del crecimiento de la curvatura y la presión ejercida sobre la columna durante el uso del corsé. El sistema integra componentes electrónicos, mecánicos y digitales, combinando sensores de presión (FSR) y temperatura (DS18B20) conectados a un microcontrolador ESP32 para la adquisición y transmisión de datos en tiempo real. 
+# Objetivos
+- Diseñar un corsé inteligente integrado con sensores para monitorear la postura y progreso de la escoliosis congénita en niños pequeños.
+- Asegurar un montaje y ajuste rápido (menor a 3 minutos) del corsé por parte del cuidador para garantizar la comodidad y seguridad.
+- Desarrollar una interfaz comprensible para que el cuidador interprete alertas de sobrepresión, batería y fallos del sensor.
+
 # Verificación del diseño 
 ## Hardware (Electrónica) 
 ### Arquitectura: 
