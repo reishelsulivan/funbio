@@ -80,3 +80,17 @@ El objetivo del diseño digital es proteger la electrónica, mantener su posici�
 El diseño digital del case y monturas del liner inteligente ha sido verificado digitalmente y cumple con los requerimientos de diseño, compatibilidad electrónica y ergonomía previstos.
  Se encuentra en fase de validación física tras el envío a impresión 3D.
 
+### Tabla de verificación del prototipo
+
+| **Funcionalidad** | **Cumplimiento** |
+|--------------------|------------------|
+| Mide las fuerzas aplicadas en tiempo real. |  Sí |
+| La interacción de los componentes se acciona mediante los sensores de presión. |  Sí |
+| Compara las lecturas de ambos sensores de temperatura para detectar sobrecalentamiento. | Sí |
+| Presenta un ahorro de energía para más duración de la batería. |  No |
+| Presenta un ajuste de fuerzas automáticas. |  Sí |
+| El dispositivo señala si la temperatura del mismo sobrepasa el rango debido. |  Sí |
+| Se ajusta si la presión sensada es menor al rango. |  Sí |
+| Se desajusta si la presión sensada es mayor al rango. |  Sí |
+| El dispositivo emite la información a un sistema de monitoreo. |  Sí |
+| La aplicación permite obtener, procesar, transmitir y almacenar datos. |  Sí |
