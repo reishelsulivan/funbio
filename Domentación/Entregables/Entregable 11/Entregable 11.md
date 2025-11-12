@@ -7,6 +7,7 @@
   
 </div>
 
+# Verificación del diseño 
 ## Hardware (Electrónica) 
 ### Arquitectura: 
 ESP32 DevKit V1 (3.3 V, BLE) + FSR a ADC1 + dos T° (DS18B20 cerca del ESP y TMP36 
